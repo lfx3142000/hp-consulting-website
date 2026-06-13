@@ -247,6 +247,199 @@ Suggested alt text pattern:
 Infographic showing [process/concept] for [audience], including [main steps or elements].
 ```
 
+## Cold outreach as SEO/AEO demand discovery
+
+Cold outreach should be treated as a demand-discovery and education channel, not only as a sales channel. For small businesses without a dedicated RSO, the biggest barrier may be that they do not know what to search for or whether they have a gap. A targeted, resource-led email can make them aware of a practical radiation safety issue and point them to a helpful site resource.
+
+### Strategic role
+
+Cold email can support the SEO/AEO strategy by:
+
+1. Driving early traffic to new resource pages.
+2. Testing which facility types respond to which topics.
+3. Revealing practical questions that should become AEO pages.
+4. Creating branded searches if recipients later look up the business.
+5. Validating service categories before building a full operations funnel.
+6. Building a small opted-in audience for future checklists, templates, and regulatory explainers.
+
+### Best-fit outreach targets
+
+Prioritize small or mid-sized organizations that may have radiation obligations but limited in-house radiation safety depth:
+
+- Small nuclear medicine practices.
+- Veterinary I-131 therapy programs.
+- Small biotech or research labs using radioactive material.
+- Industrial gauge users.
+- Portable gauge users in construction and materials testing.
+- Small manufacturing sites with fixed gauges.
+- XRF/XRD users.
+- Startup radiopharmaceutical or imaging companies.
+- Decentralized university research labs.
+- Small licensees preparing for inspection, amendment, RSO transition, or new isotope use.
+
+### Positioning
+
+Do not lead with a hard consulting pitch. Lead with a useful compliance resource or practical question.
+
+Preferred framing:
+
+```text
+I put together a practical checklist for small radioactive material programs. Many small programs miss one or two recordkeeping or inspection-readiness items, especially when they do not have a full-time dedicated RSO.
+```
+
+Avoid fear-based or misleading positioning such as:
+
+- Potential violation found.
+- Urgent inspection issue.
+- Official notice.
+- You are out of compliance.
+- Required radiation safety service.
+
+### Best resource offers
+
+Use one resource per campaign so response and click data are easy to interpret.
+
+Recommended first offers:
+
+1. Radioactive material inspection binder checklist.
+2. RSO handoff checklist.
+3. Package receipt checklist.
+4. Radioactive material license amendment screening worksheet.
+5. Radiation survey record template.
+6. Decay-in-storage log template.
+7. Gauge user compliance checklist.
+8. Nuclear medicine inspection readiness checklist.
+9. New radioactive material lab startup checklist.
+10. Small licensee annual review checklist.
+
+### Three-touch educational sequence
+
+Keep outreach short and stop after a small number of touches unless the recipient engages.
+
+#### Touch 1: resource share
+
+Purpose: offer a useful checklist or template.
+
+Example angle:
+
+```text
+I made a short inspection-binder checklist for small radioactive material programs. Sharing in case it is useful for your RSO or EHS files.
+```
+
+#### Touch 2: specific practical gap
+
+Purpose: show practical expertise without fear-mongering.
+
+Example angle:
+
+```text
+One common gap I see is that package receipt records include the survey reading but miss the label category, transport index, or 1-meter reading when applicable.
+```
+
+#### Touch 3: question invitation
+
+Purpose: collect AEO questions and identify demand.
+
+Example angle:
+
+```text
+I am collecting practical radiation safety questions from small programs and turning them into short resources. Is there one compliance topic your team is unsure about?
+```
+
+### Website integration
+
+Every campaign should point to a useful page, not only a contact form.
+
+Each outreach landing page should include:
+
+- Direct-answer intro.
+- Checklist or template preview.
+- Download or signup option.
+- Submit-a-question option.
+- Soft project inquiry CTA.
+- Regulatory note and disclaimer.
+- Source page/topic tracking parameter where possible.
+
+### Tracking fields
+
+Track outreach manually at first.
+
+Suggested fields:
+
+```text
+Date sent | Organization | Contact role | Facility type | State | Segment | Resource offered | Landing page | Open/click/reply/download | Question asked | Follow-up category | Suppression status
+```
+
+Useful follow-up categories:
+
+- Download only.
+- Asked question.
+- Potential consulting need.
+- Not now.
+- Wrong contact.
+- Unsubscribe / do not contact.
+- Spam / bounce.
+
+### Compliance and reputation guardrails
+
+Before sending any outreach campaign, verify current email-marketing requirements. For U.S. commercial email, use the FTC CAN-SPAM compliance guide as the baseline source.
+
+Baseline guardrails:
+
+- Use accurate sender and header information.
+- Use non-deceptive subject lines.
+- Identify the message as commercial where required.
+- Include a valid postal address, PO box, or qualifying private mailbox.
+- Include a clear opt-out method.
+- Honor opt-out requests within the required timeframe.
+- Maintain a suppression list and do not email opt-outs again.
+- Do not scrape, blast, or use misleading compliance scare tactics.
+- Keep volume low and targeting specific.
+- Send from a domain/mailbox configured to protect deliverability.
+
+### Recommended cold outreach experiments
+
+Start with small, measurable tests rather than a large campaign.
+
+#### Experiment 1: inspection binder checklist
+
+Target: small RAM licensees, research labs, nuclear medicine, industrial gauge users.
+
+Goal: measure clicks, downloads, and questions.
+
+#### Experiment 2: package receipt checklist
+
+Target: facilities that receive radiopharmaceuticals, sealed sources, or RAM packages.
+
+Goal: measure practical interest in recordkeeping support and training.
+
+#### Experiment 3: RSO handoff checklist
+
+Target: small licensees, startups, and organizations where RSO coverage may be part-time or vulnerable to staff turnover.
+
+Goal: identify organizations concerned about continuity, amendments, and inspection readiness.
+
+#### Experiment 4: license amendment screening worksheet
+
+Target: biotech, radiopharmaceutical R&D, university labs, and nuclear medicine departments adding isotopes, rooms, equipment, or authorized users.
+
+Goal: identify high-value amendment support opportunities.
+
+### How cold outreach feeds AEO
+
+After each campaign, turn responses into content improvements:
+
+- Questions asked by recipients become FAQ blocks.
+- Repeated questions become standalone AEO pages.
+- Clicked resources become higher-priority templates.
+- Confusing topics become infographics.
+- Industry-specific replies become facility-type pages.
+- State-specific replies become New England jurisdiction pages.
+
+### Cold outreach priority
+
+For the current simmer phase, resource-led cold outreach should be treated as one of the top demand-discovery channels, especially because many small organizations will not know they need RSO support, audit support, amendment review, or inspection-readiness help until the issue is framed for them.
+
 ## Implementation priority
 
 1. Add source-backed direct answer blocks to top service pages.
@@ -257,3 +450,5 @@ Infographic showing [process/concept] for [audience], including [main steps or e
 6. Generate first three infographics: NRC vs Agreement State map, license amendment decision tree, package receipt workflow.
 7. Add author/reviewer credibility boxes and last-updated dates.
 8. Add alt text and text equivalents for all graphics.
+9. Build first outreach landing page around the inspection binder checklist.
+10. Run a small resource-led cold outreach test and use replies/questions to improve AEO content.
