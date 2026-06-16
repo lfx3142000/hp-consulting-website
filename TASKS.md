@@ -94,13 +94,13 @@ The conversion path should collect request and interest signals without creating
 | 5.2 | Create internal linking map | ✅ Done | `content-plan/internal-linking-map.md` |
 | 5.3 | Create AEO page/post template | ⬜ Pending | `content-plan/aeo-page-template.md` |
 | 5.4 | Create content calendar | ⬜ Pending | `content-plan/content-calendar.md` |
-| 5.5 | Add FAQ sections to top service pages | 🟡 Needs Update | WordPress pages/page drafts |
+| 5.5 | Add FAQ sections to top service pages | ✅ Done | WordPress pages/page drafts |
 
 # Phase 7 — Free resources and lead magnets
 | # | Free resource | Status | Draft location |
 |---|---|---|---|
 | 7.1 | Radiation Safety Program Audit Checklist | ✅ Done | `freebies/radiation-safety-program-audit-checklist.md` |
-| 7.2 | RSO Inspection Readiness Checklist | ⬜ Pending | `freebies/rso-inspection-readiness-checklist.md` |
+| 7.2 | RSO Inspection Readiness Checklist | ✅ Done | `freebies/rso-inspection-readiness-checklist.md` |checklist.md` |
 
 ## Immediate next actions
 * i. Finalize and check all internal links and CTA buttons (QA).
