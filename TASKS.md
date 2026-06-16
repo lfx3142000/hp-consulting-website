@@ -114,3 +114,14 @@ The conversion path should collect request and interest signals without creating
 * ii. Create Google Sheet lead tracker (project inquiry log).
 * iii. Add Related Resources section to Radiation Safety Training, Radiation Surveys, and Radiation Safety Program Development pages.
 * iv. Mark Task 1.9 as Done in Phase 1 table.
+* 
+## Completed — Session 2026-06-16 (continued)
+* ✅ vi. Bing Webmaster Tools set up via Google Search Console import — 1 sitemap, 59 URLs discovered
+* ✅ vii. Google Sheet lead tracker created: https://docs.google.com/spreadsheets/d/12kC77iC0JEBgFY3HHv6wOGibcON6WE03vB5t9mA3PZI/edit
+* ✅ viii. Related Resources section added to Radiation Safety Training, Radiation Surveys, and Radiation Safety Program Development pages
+
+## Immediate next actions
+* i. Delete duplicate pages: /radiation-safety-program-audit-checklist-2/, /rso-consulting-2/, /radiation-surveys-2/, /submit-a-question/
+* ii. Add FAQ section to Radiation Safety Training and Radiation Surveys pages
+* iii. Monthly analytics review (first review due after 30 days of traffic)
+
