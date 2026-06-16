@@ -38,7 +38,7 @@ These tasks affect credibility and should be completed before traffic-building w
 | 1.6 | Remove irrelevant tags that dilute topical authority | ✅ Done | WordPress post tags |
 | 1.7 | Replace response-time promises with validation-safe copy | ✅ Done | Contact/request pages |
 | 1.8 | Review mobile layout and CTA visibility | ⬜ Pending | Live site QA |
-| 1.9 | Check all internal links and CTA buttons | 🟡 Needs Update | Live site QA |
+| 1.9 | Check all internal links and CTA buttons | ✅ Done | Live site QA — CTAs verified, Related Resources links fixed on Audits and RSO Consulting pages |
 | 1.10 | Add privacy and disclaimer pages before collecting emails/requests | ✅ Done | WordPress pages and repo drafts |
 
 Acceptance criteria:
@@ -102,9 +102,15 @@ The conversion path should collect request and interest signals without creating
 | 7.1 | Radiation Safety Program Audit Checklist | ✅ Done | `freebies/radiation-safety-program-audit-checklist.md` |
 | 7.2 | RSO Inspection Readiness Checklist | ✅ Done | `freebies/rso-inspection-readiness-checklist.md` |checklist.md` |
 
+## Completed — Session 2026-06-16
+* ✅ i. Related Resources links fixed on Radiation Safety Audits page (3 links added)
+* ✅ ii. Related Resources links fixed on RSO Consulting page (3 links added)
+* ✅ iii. QA pass on primary service pages: Radiation Safety Audits, RSO Consulting, Radiation Safety Program Development, Radiation Safety Training, Radiation Surveys, Radioactive Material License Consulting — all CTAs resolve correctly
+* ✅ iv. RSO Inspection Readiness Checklist page published (Task 7.2)
+* ✅ v. FAQ sections added to Radiation Safety Audits and RSO Consulting pages (Task 5.5)
+
 ## Immediate next actions
-* i. Finalize and check all internal links and CTA buttons (QA).
-* ii. Draft RSO Inspection Readiness Checklist (Task 7.2).
-* iii. Add FAQ sections to primary service pages (Task 5.5).
-* iv. Update Internal Linking Map with live URLs and target anchors.
-* v. Create monthly review template.
+* i. Set up Bing Webmaster Tools (submit sitemap).
+* ii. Create Google Sheet lead tracker (project inquiry log).
+* iii. Add Related Resources section to Radiation Safety Training, Radiation Surveys, and Radiation Safety Program Development pages.
+* iv. Mark Task 1.9 as Done in Phase 1 table.
