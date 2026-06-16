@@ -1,15 +1,11 @@
 # HP Consulting Website — TASKS
 
 ## Strategy summary
-
 The Advantage Health Physics website is currently a traffic and demand-validation MVP.
-
 The goal is to publish useful health physics and radiation safety content, improve SEO/AEO visibility, and collect demand signals through project inquiries, quote requests, submitted questions, free resource downloads, and email signups.
-
 The site should not yet behave like a fully staffed consulting operation. Avoid response-time promises, emergency-support promises, guaranteed consultations, and operational infrastructure that is not needed for validation.
 
 ## Key planning documents
-
 | Document | Purpose |
 |---|---|
 | `BUILD_PLAN.md` | Master build plan and validation strategy |
@@ -19,7 +15,6 @@ The site should not yet behave like a fully staffed consulting operation. Avoid 
 | `README.md` | Repository overview and operating strategy |
 
 ## Status key
-
 | Status | Meaning |
 |---|---|
 | ✅ Done | Complete enough for current MVP |
@@ -31,11 +26,10 @@ The site should not yet behave like a fully staffed consulting operation. Avoid 
 ---
 
 # Phase 1 — Immediate live-site cleanup
-
 These tasks affect credibility and should be completed before traffic-building work.
 
 | # | Task | Status | Deliverable |
-|---|---|---:|---|
+|---|---|---|---|
 | 1.1 | Remove WordPress template text and starter copy | ✅ Done | Live WordPress homepage/pages |
 | 1.2 | Remove placeholder posts and demo content | ✅ Done | WordPress posts/pages |
 | 1.3 | Remove or replace default sidebar/footer widgets | ✅ Done | WordPress theme/customizer |
@@ -53,11 +47,10 @@ Acceptance criteria:
 * All main CTAs point to request, question, download, or signup actions.
 
 # Phase 2 — Validation-safe conversion path
-
 The conversion path should collect request and interest signals without creating an obligation to respond.
 
 | # | Task | Status | Deliverable |
-|---|---|---:|---|
+|---|---|---|---|
 | 2.1 | Create Request a Quote / Project Inquiry page draft | ✅ Done | `page-drafts/request-a-quote.md` |
 | 2.2 | Build request/project inquiry form spec | ✅ Done | `forms/request-intake-and-confirmation-copy.md` |
 | 2.3 | Add request/project inquiry form to WordPress | ✅ Done | WordPress form/page |
@@ -68,19 +61,12 @@ The conversion path should collect request and interest signals without creating
 | 2.8 | Create optional auto-reply email copy | ✅ Done | `forms/request-intake-and-confirmation-copy.md` |
 | 2.9 | Create Google Sheet or Airtable lead tracker | ⬜ Pending | External tracker and setup notes |
 
-Preferred CTA:
-> Submit a project inquiry or quote request. We review submissions to understand current radiation safety needs and may follow up if the project appears to be a good fit.
-
-Preferred confirmation:
-> Thank you. Your submission has been received. We review submissions to understand current radiation safety needs and may follow up if the project appears to be a good fit. Submitting this form does not create a consulting relationship, emergency response obligation, or guarantee of service.
-
 # Phase 3 — Analytics and validation setup
-
 | # | Task | Status | Deliverable |
-|---|---|---:|---|
+|---|---|---|---|
 | 3.1 | Create traffic validation plan | ✅ Done | `analytics/traffic-validation-plan.md` |
 | 3.2 | Verify Google Search Console | ✅ Done | Search Console |
-| 3.3 | Submit sitemap | ✅ Done | Search Console |
+| 3.3 | Submit sitemap | ✅ Done | Search Console (submitted/processing) |
 | 3.4 | Set up Bing Webmaster Tools | ⬜ Pending | Bing Webmaster Tools |
 | 3.5 | Set up lightweight site analytics | ✅ Done | WordPress stats / Jetpack |
 | 3.6 | Create monthly review file/template | 🟡 Needs Update | `analytics/monthly-review-template.md` |
@@ -88,25 +74,9 @@ Preferred confirmation:
 | 3.8 | Track free resource downloads | ⬜ Pending | Email/form/download tool |
 | 3.9 | Review metrics monthly and set next content priorities | ⬜ Pending | `analytics/search-console-notes.md` |
 
-Validation targets are documented in `analytics/traffic-validation-plan.md`.
-
 # Phase 4 — Service page optimization
-
-Each existing service page should be improved rather than recreated from scratch.
-
-Required structure for each service page:
-* Direct-answer intro.
-* Who this is for.
-* Problems solved.
-* Typical deliverables.
-* Information to submit.
-* Common mistakes.
-* FAQ section.
-* Related articles/resources.
-* Request/project inquiry CTA.
-
 | # | Page | Status | Draft location |
-|---|---|---:|---|
+|---|---|---|---|
 | 4.1 | Homepage | ✅ Done | `page-drafts/home.md` |
 | 4.2 | About | 🟡 Needs Update | `page-drafts/about.md` |
 | 4.3 | Services | ✅ Done | `page-drafts/services.md` |
@@ -118,31 +88,23 @@ Required structure for each service page:
 | 4.9 | Radiation Surveys | ✅ Done | `page-drafts/radiation-surveys.md` |
 
 # Phase 5 — SEO/AEO content plan
-
 | # | Task | Status | Deliverable |
-|---|---|---:|---|
+|---|---|---|---|
 | 5.1 | Create SEO/AEO build plan | ✅ Done | `content-plan/seo-aeo-build-plan.md` |
 | 5.2 | Create internal linking map | ✅ Done | `content-plan/internal-linking-map.md` |
 | 5.3 | Create AEO page/post template | ⬜ Pending | `content-plan/aeo-page-template.md` |
 | 5.4 | Create content calendar | ⬜ Pending | `content-plan/content-calendar.md` |
 | 5.5 | Add FAQ sections to top service pages | 🟡 Needs Update | WordPress pages/page drafts |
-| 5.6 | Add author/expertise notes to technical pages | ⬜ Pending | WordPress pages/page drafts |
-| 5.7 | Add last-updated dates to technical pages | ⬜ Pending | WordPress pages/posts |
-| 5.8 | Add references/regulatory notes where appropriate | ⬜ Pending | WordPress pages/posts |
 
 # Phase 7 — Free resources and lead magnets
-
 | # | Free resource | Status | Draft location |
-|---|---|---:|---|
+|---|---|---|---|
 | 7.1 | Radiation Safety Program Audit Checklist | ✅ Done | `freebies/radiation-safety-program-audit-checklist.md` |
 | 7.2 | RSO Inspection Readiness Checklist | ⬜ Pending | `freebies/rso-inspection-readiness-checklist.md` |
-| 7.3 | RAM License Amendment Planning Worksheet | ⬜ Pending | `freebies/ram-license-amendment-planning-worksheet.md` |
-| 7.4 | Radiation Survey Record Template | ⬜ Pending | `freebies/radiation-survey-record-template.md` |
 
 ## Immediate next actions
-
-* 1. Finalize and check all internal links and CTA buttons (QA).
-* 2. Draft RSO Inspection Readiness Checklist (Task 7.2).
-* 3. Add FAQ sections to primary service pages (Task 5.5).
-* 4. Set up Bing Webmaster Tools (Task 3.4).
-* 5. Review mobile layout for CTA visibility (Task 1.8).
+* i. Finalize and check all internal links and CTA buttons (QA).
+* ii. Draft RSO Inspection Readiness Checklist (Task 7.2).
+* iii. Add FAQ sections to primary service pages (Task 5.5).
+* iv. Update Internal Linking Map with live URLs and target anchors.
+* v. Create monthly review template.
