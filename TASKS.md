@@ -125,3 +125,15 @@ The conversion path should collect request and interest signals without creating
 * ii. Add FAQ section to Radiation Safety Training and Radiation Surveys pages
 * iii. Monthly analytics review (first review due after 30 days of traffic)
 
+
+## Completed — Session 2026-06-17
+* ✅ ix. Verified duplicate pages (radiation-surveys-2, rso-consulting-2, radiation-safety-program-audit-checklist-2, submit-a-question) — already removed from previous sessions; no live duplicates found
+* ✅ x. FAQ section added to Radiation Surveys page (5 Q&A covering survey types, frequency, equipment, reports, service area)
+* ✅ xi. FAQ section added to Radiation Safety Training for Workers and RSOs page (5 Q&A covering who needs training, frequency, customization, documentation, RSO training)
+
+## Immediate next actions
+* i. Monthly analytics review (first review due after 30 days of traffic)
+* ii. Review mobile layout and CTA visibility (Task 1.8)
+* iii. Update About page content (Task 4.2)
+* iv. Create AEO page/post template (Task 5.3)
+* v. Create content calendar (Task 5.4)
