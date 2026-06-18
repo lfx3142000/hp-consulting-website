@@ -137,3 +137,22 @@ The conversion path should collect request and interest signals without creating
 * iii. Update About page content (Task 4.2)
 * iv. Create AEO page/post template (Task 5.3)
 * v. Create content calendar (Task 5.4)
+
+## Completed — Session 2026-06-18
+* ✅ xii. Created `content-plan/aeo-page-template.md` — full AEO page structure with 9 sections, metadata table, and pre-publish quality checklist (Task 5.3)
+* ✅ xiii. Created `content-plan/content-calendar.md` — inventory of 26 published pages and 15-page priority AEO build queue with monthly review schedule (Task 5.4)
+* ✅ xiv. Published AEO page: NRC vs. Agreement State — Who Issues Your RAM License in New England? (/nrc-vs-agreement-state-new-england) — Licensing cluster, Priority 1
+* ✅ xv. Published AEO page: Massachusetts Radioactive Material License Checklist (/massachusetts-radioactive-material-license-checklist) — Licensing cluster, Priority 3
+* ✅ xvi. Published AEO page: Radioactive Material License Amendment: When and How to File (/radioactive-material-license-amendment-when-and-how-to-file) — Licensing cluster, Priority 4
+* ✅ xvii. Published AEO page: NRC Inspection Records Checklist: What to Have Ready (/nrc-inspection-records-checklist) — Audits cluster, Priority 6
+
+## Phase 5 task status update
+* 5.3 AEO page/post template — ✅ Done (content-plan/aeo-page-template.md committed)
+* 5.4 Content calendar — ✅ Done (content-plan/content-calendar.md committed)
+
+## Immediate next actions
+* i. Monthly analytics review (first review due 2026-07-18)
+* ii. Review mobile layout and CTA visibility (Task 1.8)
+* iii. Update About page content (Task 4.2)
+* iv. Build next AEO pages from content calendar priority queue: /new-england-radioactive-material-reciprocity (Priority 5), /package-receipt-survey-requirements (Priority 7), /how-often-radiation-surveys-required (Priority 8)
+* v. Add internal links between new AEO pages and existing service pages
