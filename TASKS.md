@@ -162,5 +162,5 @@ The conversion path should collect request and interest signals without creating
 * i. Monthly analytics review (first review due 2026-07-18)
 * ii. Review mobile layout and CTA visibility (Task 1.8)
 * iii. Update About page content (Task 4.2)
-* iv. Add internal links between all published AEO pages and relevant service pages
+* ✅ iv. Added internal links: Related Resources sections updated on Radioactive Material License Consulting, Radiation Safety Audits, and RSO Consulting service pages — linking to all 9 published AEO pages
 * v. Build next AEO pages from content calendar priority queue (Priorities 12+)
