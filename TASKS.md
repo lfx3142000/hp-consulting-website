@@ -150,9 +150,17 @@ The conversion path should collect request and interest signals without creating
 * 5.3 AEO page/post template — ✅ Done (content-plan/aeo-page-template.md committed)
 * 5.4 Content calendar — ✅ Done (content-plan/content-calendar.md committed)
 
+## Completed — Session 2026-06-18 (continued)
+* ✅ xviii. Published AEO page: Package Receipt Survey Requirements for Radioactive Material (/package-receipt-survey-requirements-for-radioactive-material) — Audits/Compliance cluster, Priority 7
+* ✅ xix. Published AEO page: How Often Are Radiation Surveys Required? (/how-often-are-radiation-surveys-required) — Compliance cluster, Priority 8
+* ✅ xx. Published AEO page: Decay-in-Storage Recordkeeping Requirements (/decay-in-storage-recordkeeping-requirements) — Compliance cluster, Priority 9
+* ✅ xxi. Published AEO page: NRC Form 313 Checklist: What to Include in Your License Application (/nrc-form-313-checklist-what-to-include-in-your-license-application) — Licensing cluster, Priority 10
+* ✅ xxii. Published AEO page: Radiation Safety Program Annual Review Checklist (/radiation-safety-program-annual-review-checklist) — Compliance cluster, Priority 11
+* ✅ xxiii. Published AEO page: Radioactive Material License Reciprocity in New England (/radioactive-material-license-reciprocity-in-new-england) — Licensing cluster, Priority 5
+
 ## Immediate next actions
 * i. Monthly analytics review (first review due 2026-07-18)
 * ii. Review mobile layout and CTA visibility (Task 1.8)
 * iii. Update About page content (Task 4.2)
-* iv. Build next AEO pages from content calendar priority queue: /new-england-radioactive-material-reciprocity (Priority 5), /package-receipt-survey-requirements (Priority 7), /how-often-radiation-surveys-required (Priority 8)
-* v. Add internal links between new AEO pages and existing service pages
+* iv. Add internal links between all published AEO pages and relevant service pages
+* v. Build next AEO pages from content calendar priority queue (Priorities 12+)
