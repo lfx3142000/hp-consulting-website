@@ -177,3 +177,19 @@ The conversion path should collect request and interest signals without creating
 * iii. Update About page content (Task 4.2)
 * iv. Build next AEO pages from content calendar priority queue (Priorities 16+)
 * v. Add internal links on new AEO pages to related service pages as needed
+
+## Completed — Session 2026-06-19 (continued)
+* ✅ xxviii. Published AEO page: Connecticut Radioactive Material License: NRC Agreement State Transition Guide (/connecticut-radioactive-material-license) — Licensing cluster, Priority 2 (previously skipped)
+* ✅ xxix. Published AEO page: Rhode Island Radioactive Material License: Who Regulates RAM in Rhode Island? (/rhode-island-radioactive-material-license) — Licensing cluster, Priority 16
+* ✅ xxx. Published AEO page: Maine Radioactive Material License: NRC Regulates RAM in Maine (/maine-radioactive-material-license) — Licensing cluster, Priority 17
+* ✅ xxxi. Published AEO page: New Hampshire Radioactive Material License: NRC Regulates RAM in New Hampshire (/new-hampshire-radioactive-material-license) — Licensing cluster, Priority 18
+* ✅ xxxii. Published AEO page: Vermont Radioactive Material License: NRC Regulates RAM in Vermont (/vermont-radioactive-material-license) — Licensing cluster, Priority 19
+* ✅ xxxiii. Published AEO page: What Is an Authorized User on a Radioactive Material License? (/authorized-user-radioactive-material-license) — Licensing cluster, Priority 20
+* ✅ xxxiv. Updated content-plan/content-calendar.md — all 20 priorities marked Published, added Priorities 21-25 to build queue
+
+## Immediate next actions
+* i. Monthly analytics review (first review due 2026-07-18)
+* ii. Review mobile layout and CTA visibility (Task 1.8)
+* iii. Update About page content (Task 4.2)
+* iv. Build next AEO pages from content calendar priority queue (Priorities 21+)
+* v. Add internal links on state license pages to related service pages (Radioactive Material License Consulting, RSO Consulting, NRC vs. Agreement State page)
