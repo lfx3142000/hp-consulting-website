@@ -21,7 +21,7 @@ This file tracks all planned, in-progress, and published SEO/AEO content for the
 
 ---
 
-## Published pages (existing as of 2026-06-18)
+## Published pages (existing as of 2026-06-19)
 
 | # | Page title | Slug | Cluster | Published |
 |---|---|---|---|---|
@@ -55,31 +55,39 @@ This file tracks all planned, in-progress, and published SEO/AEO content for the
 ---
 
 ## Priority build queue (AEO/SEO pages)
-
 Ordered by regulatory specificity, search intent clarity, and service alignment. Build using `aeo-page-template.md`.
 
 | Priority | Title | Slug | Cluster | Status | Target date | Published |
 |---|---|---|---|---|---|---|
-| 1 | NRC vs. Agreement State: Which agency issues your radioactive material license in New England? | /nrc-vs-agreement-state-new-england | Licensing | 🟦 Planned | 2026-07 | — |
-| 2 | Connecticut radioactive material license: NRC Agreement State transition guide | /connecticut-radioactive-material-license | Licensing | 🟦 Planned | 2026-07 | — |
-| 3 | Massachusetts radioactive material license checklist | /massachusetts-radioactive-material-license-checklist | Licensing | 🟦 Planned | 2026-07 | — |
-| 4 | Radioactive material license amendment: when and how to file | /radioactive-material-license-amendment | Licensing | 🟦 Planned | 2026-07 | — |
-| 5 | New England radioactive material reciprocity checklist | /new-england-radioactive-material-reciprocity | Licensing | 🟦 Planned | 2026-07 | — |
-| 6 | NRC inspection records checklist: what to have ready | /nrc-inspection-records-checklist | Audits | 🟦 Planned | 2026-07 | — |
-| 7 | Package receipt survey requirements for radioactive material | /package-receipt-survey-requirements | Surveys | 🟦 Planned | 2026-08 | — |
-| 8 | How often are radiation surveys required? | /how-often-radiation-surveys-required | Surveys | 🟦 Planned | 2026-08 | — |
-| 9 | Decay-in-storage recordkeeping: requirements and checklist | /decay-in-storage-recordkeeping | Waste | 🟦 Planned | 2026-08 | — |
-| 10 | NRC Form 313 checklist: radioactive material license application | /nrc-form-313-checklist | Licensing | 🟦 Planned | 2026-08 | — |
-| 11 | Radiation safety program annual review checklist | /radiation-safety-program-annual-review | Program Dev | 🟦 Planned | 2026-08 | — |
-| 12 | 10 CFR Part 37 requirements for category 1 and category 2 radioactive material | /10-cfr-part-37-category-1-category-2 | Licensing | 🟦 Planned | 2026-09 | — |
-| 13 | Nuclear medicine radioactive material additions: Lu-177, I-131, Ga-68 | /nuclear-medicine-radioactive-material-additions | Program Dev | 🟦 Planned | 2026-09 | — |
-| 14 | Radiation shielding evaluation: when is one required? | /radiation-shielding-evaluation | Shielding | 🟦 Planned | 2026-09 | — |
-| 15 | RSO responsibilities: what does a Radiation Safety Officer actually do? | /rso-responsibilities | RSO Support | 🟦 Planned | 2026-09 | — |
+| 1 | NRC vs. Agreement State: Which agency issues your radioactive material license in New England? | /nrc-vs-agreement-state-new-england | Licensing | ✅ Published | 2026-07 | 2026-06-18 |
+| 2 | Connecticut radioactive material license: NRC Agreement State transition guide | /connecticut-radioactive-material-license | Licensing | ✅ Published | 2026-07 | 2026-06-19 |
+| 3 | Massachusetts radioactive material license checklist | /massachusetts-radioactive-material-license-checklist | Licensing | ✅ Published | 2026-07 | 2026-06-18 |
+| 4 | Radioactive material license amendment: when and how to file | /radioactive-material-license-amendment-when-and-how-to-file | Licensing | ✅ Published | 2026-07 | 2026-06-18 |
+| 5 | New England radioactive material reciprocity checklist | /radioactive-material-license-reciprocity-in-new-england | Licensing | ✅ Published | 2026-07 | 2026-06-18 |
+| 6 | NRC inspection records checklist: what to have ready | /nrc-inspection-records-checklist | Audits | ✅ Published | 2026-07 | 2026-06-18 |
+| 7 | Package receipt survey requirements for radioactive material | /package-receipt-survey-requirements-for-radioactive-material | Surveys | ✅ Published | 2026-08 | 2026-06-18 |
+| 8 | How often are radiation surveys required? | /how-often-are-radiation-surveys-required | Surveys | ✅ Published | 2026-08 | 2026-06-18 |
+| 9 | Decay-in-storage recordkeeping: requirements and checklist | /decay-in-storage-recordkeeping-requirements | Waste | ✅ Published | 2026-08 | 2026-06-18 |
+| 10 | NRC Form 313 checklist: radioactive material license application | /nrc-form-313-checklist-what-to-include-in-your-license-application | Licensing | ✅ Published | 2026-08 | 2026-06-18 |
+| 11 | Radiation safety program annual review checklist | /radiation-safety-program-annual-review-checklist | Program Dev | ✅ Published | 2026-08 | 2026-06-18 |
+| 12 | 10 CFR Part 37 requirements for category 1 and category 2 radioactive material | /10-cfr-part-37-requirements-for-category-1-and-category-2-radioactive-material | Licensing | ✅ Published | 2026-09 | 2026-06-19 |
+| 13 | Nuclear medicine radioactive material additions: Lu-177, I-131, Ga-68 | /radioactive-material-license-additions-for-nuclear-medicine-lu-177-i-131-and-ga-68 | Program Dev | ✅ Published | 2026-09 | 2026-06-19 |
+| 14 | Radiation shielding evaluation: when is one required? | /radiation-shielding-evaluation-when-is-one-required | Shielding | ✅ Published | 2026-09 | 2026-06-19 |
+| 15 | RSO responsibilities: what does a Radiation Safety Officer actually do? | /rso-responsibilities-what-does-a-radiation-safety-officer-actually-do | RSO Support | ✅ Published | 2026-09 | 2026-06-19 |
+| 16 | Rhode Island radioactive material license: who regulates RAM in Rhode Island? | /rhode-island-radioactive-material-license | Licensing | ✅ Published | 2026-09 | 2026-06-19 |
+| 17 | Maine radioactive material license: NRC regulates RAM in Maine | /maine-radioactive-material-license | Licensing | ✅ Published | 2026-09 | 2026-06-19 |
+| 18 | New Hampshire radioactive material license: NRC regulates RAM in New Hampshire | /new-hampshire-radioactive-material-license | Licensing | ✅ Published | 2026-09 | 2026-06-19 |
+| 19 | Vermont radioactive material license: NRC regulates RAM in Vermont | /vermont-radioactive-material-license | Licensing | ✅ Published | 2026-09 | 2026-06-19 |
+| 20 | What is an authorized user on a radioactive material license? | /authorized-user-radioactive-material-license | Licensing | ✅ Published | 2026-09 | 2026-06-19 |
+| 21 | What is a broad scope radioactive material license? | /broad-scope-radioactive-material-license | Licensing | 🟦 Planned | 2026-10 | — |
+| 22 | Radioactive material license termination: how to close out a license | /radioactive-material-license-termination | Licensing | 🟦 Planned | 2026-10 | — |
+| 23 | NRC license renewal: how to renew a radioactive material license | /nrc-radioactive-material-license-renewal | Licensing | 🟦 Planned | 2026-10 | — |
+| 24 | Radiation dose limits for radiation workers: 10 CFR Part 20 summary | /radiation-dose-limits-radiation-workers | Compliance | 🟦 Planned | 2026-10 | — |
+| 25 | Radiation exposure monitoring: when is dosimetry required? | /radiation-exposure-monitoring-dosimetry-requirements | Compliance | 🟦 Planned | 2026-10 | — |
 
 ---
 
 ## Monthly review notes
-
 | Month | Review date | Traffic notes | Conversion signals | Next priority decision |
 |---|---|---|---|---|
 | 2026-06 | First review: 2026-07-18 | Baseline — site launched March 2026 | Monitor question submissions | Build licensing cluster first |
