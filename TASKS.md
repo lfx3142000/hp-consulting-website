@@ -193,3 +193,18 @@ The conversion path should collect request and interest signals without creating
 * iii. Update About page content (Task 4.2)
 * iv. Build next AEO pages from content calendar priority queue (Priorities 21+)
 * v. Add internal links on state license pages to related service pages (Radioactive Material License Consulting, RSO Consulting, NRC vs. Agreement State page)
+* 
+## Completed — Session 2026-06-19 (AEO build: Priorities 21-25)
+* ✅ xxxv. Published AEO page: What Is a Broad Scope Radioactive Material License? (/broad-scope-radioactive-material-license) — Licensing cluster, Priority 21
+* ✅ xxxvi. Published AEO page: Radioactive Material License Termination: How to Close Out a License (/radioactive-material-license-termination) — Licensing cluster, Priority 22
+* ✅ xxxvii. Published AEO page: NRC License Renewal: How to Renew a Radioactive Material License (/nrc-radioactive-material-license-renewal) — Licensing cluster, Priority 23
+* ✅ xxxviii. Published AEO page: Radiation Dose Limits for Radiation Workers: 10 CFR Part 20 Summary (/radiation-dose-limits-radiation-workers) — Compliance cluster, Priority 24
+* ✅ xxxix. Published AEO page: Radiation Exposure Monitoring: When Is Dosimetry Required? (/radiation-exposure-monitoring-dosimetry-requirements) — Compliance cluster, Priority 25
+* ✅ xl. Updated Related Resources on all 5 state license pages (RI, ME, NH, VT, CT) — added RSO Consulting and NRC License Renewal links
+* ✅ xli. Updated content-plan/content-calendar.md — all 25 priorities marked Published
+
+## Immediate next actions
+* i. Monthly analytics review (first review due 2026-07-18)
+* ii. Review mobile layout and CTA visibility (Task 1.8)
+* iii. Update About page content (Task 4.2)
+* iv. Define and plan next AEO build priorities (Priorities 26+) based on search demand and content gaps
