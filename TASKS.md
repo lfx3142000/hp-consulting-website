@@ -163,4 +163,17 @@ The conversion path should collect request and interest signals without creating
 * ii. Review mobile layout and CTA visibility (Task 1.8)
 * iii. Update About page content (Task 4.2)
 * ✅ iv. Added internal links: Related Resources sections updated on Radioactive Material License Consulting, Radiation Safety Audits, and RSO Consulting service pages — linking to all 9 published AEO pages
-* v. Build next AEO pages from content calendar priority queue (Priorities 12+)
+* ✅ v. Built and published AEO pages: Priorities 12-15 (10 CFR Part 37, Nuclear Medicine License Additions, Radiation Shielding Evaluation, RSO Responsibilities)
+
+## Completed — Session 2026-06-19
+* ✅ xxiv. Published AEO page: 10 CFR Part 37: Requirements for Category 1 and Category 2 Radioactive Material (/10-cfr-part-37-requirements-for-category-1-and-category-2-radioactive-material) — Compliance cluster, Priority 12
+* ✅ xxv. Published AEO page: Radioactive Material License Additions for Nuclear Medicine: Lu-177, I-131, and Ga-68 (/radioactive-material-license-additions-for-nuclear-medicine-lu-177-i-131-and-ga-68) — Licensing cluster, Priority 13
+* ✅ xxvi. Published AEO page: Radiation Shielding Evaluation: When Is One Required? (/radiation-shielding-evaluation-when-is-one-required) — Technical cluster, Priority 14
+* ✅ xxvii. Published AEO page: RSO Responsibilities: What Does a Radiation Safety Officer Actually Do? (/rso-responsibilities-what-does-a-radiation-safety-officer-actually-do) — RSO Support cluster, Priority 15
+
+## Immediate next actions
+* i. Monthly analytics review (first review due 2026-07-18)
+* ii. Review mobile layout and CTA visibility (Task 1.8)
+* iii. Update About page content (Task 4.2)
+* iv. Build next AEO pages from content calendar priority queue (Priorities 16+)
+* v. Add internal links on new AEO pages to related service pages as needed
