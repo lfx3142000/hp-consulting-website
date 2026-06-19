@@ -79,11 +79,11 @@ Ordered by regulatory specificity, search intent clarity, and service alignment.
 | 18 | New Hampshire radioactive material license: NRC regulates RAM in New Hampshire | /new-hampshire-radioactive-material-license | Licensing | ✅ Published | 2026-09 | 2026-06-19 |
 | 19 | Vermont radioactive material license: NRC regulates RAM in Vermont | /vermont-radioactive-material-license | Licensing | ✅ Published | 2026-09 | 2026-06-19 |
 | 20 | What is an authorized user on a radioactive material license? | /authorized-user-radioactive-material-license | Licensing | ✅ Published | 2026-09 | 2026-06-19 |
-| 21 | What is a broad scope radioactive material license? | /broad-scope-radioactive-material-license | Licensing | 🟦 Planned | 2026-10 | — |
-| 22 | Radioactive material license termination: how to close out a license | /radioactive-material-license-termination | Licensing | 🟦 Planned | 2026-10 | — |
-| 23 | NRC license renewal: how to renew a radioactive material license | /nrc-radioactive-material-license-renewal | Licensing | 🟦 Planned | 2026-10 | — |
-| 24 | Radiation dose limits for radiation workers: 10 CFR Part 20 summary | /radiation-dose-limits-radiation-workers | Compliance | 🟦 Planned | 2026-10 | — |
-| 25 | Radiation exposure monitoring: when is dosimetry required? | /radiation-exposure-monitoring-dosimetry-requirements | Compliance | 🟦 Planned | 2026-10 | — |
+| 21 | What is a broad scope radioactive material license? | /broad-scope-radioactive-material-license | Licensing | ✅ Published | 2026-06 | 2026-06-19 |
+| 22 | Radioactive material license termination: how to close out a license | /radioactive-material-license-termination || Licensing | ✅ Published | 2026-06 | 2026-06-19 |
+| 23 | NRC license renewal: how to renew a radioactive material license | /nrc-radioactive-material-license-renewal | L| Licensing | ✅ Published | 2026-06 | 2026-06-19 |
+| 24 | Radiation dose limits for radiation workers: 10 CFR Part 20 summary | /radiation-dose-limits-radiation-workers | Comp| Compliance | ✅ Published | 2026-06 | 2026-06-19 |
+| 25 | Radiation exposure monitoring: when is dosimetry required? | /radiation-exposure-monitoring-dosimetry-requirements | Compl| Compliance | ✅ Published | 2026-06 | 2026-06-19 |
 
 ---
 
