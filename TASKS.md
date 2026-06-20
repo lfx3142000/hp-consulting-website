@@ -208,3 +208,24 @@ The conversion path should collect request and interest signals without creating
 * ii. Review mobile layout and CTA visibility (Task 1.8)
 * iii. Update About page content (Task 4.2)
 * iv. Define and plan next AEO build priorities (Priorities 26+) based on search demand and content gaps
+* 
+## Completed — Session 2026-06-20
+* ✅ xlii. Mobile layout and CTA visibility QA completed (Task 1.8) — hero CTA "Schedule a Free Consultation" → /contact verified; "Submit a Project Inquiry" → /request-a-quote/ verified; mobile preview shows full-width button and readable layout
+* ✅ xliii. About page updated (Task 4.2) — added internal links to all 6 service pages and NRC vs. Agreement State AEO page; added "Ready to Work Together?" CTA section with Submit a Project Inquiry and View Our Services buttons
+* ✅ xliv. Published AEO page: Radiation Safety Officer Qualifications: NRC and Agreement State Requirements (/radiation-safety-officer-qualifications-nrc-and-agreement-state-requirements) — RSO Support cluster, Priority 26
+* ✅ xlv. Published AEO page: How to Write a Radiation Safety Program: Required Elements and Best Practices (/how-to-write-a-radiation-safety-program-required-elements-and-best-practices) — Compliance cluster, Priority 27
+* ✅ xlvi. Published AEO page: Radioactive Waste Disposal: Options and Requirements for NRC Licensees (/radioactive-waste-disposal-options-and-requirements-for-nrc-licensees) — Compliance cluster, Priority 28
+* ✅ xlvii. Published AEO page: Medical Radioactive Material License Requirements: I-131, Tc-99m, and PET Isotopes (/medical-radioactive-material-license-requirements-i-131-tc-99m-and-pet-isotopes) — Licensing cluster, Priority 29
+* ✅ xlviii. Published AEO page: NRC Inspection Process: What to Expect During an NRC Inspection (/nrc-inspection-process-what-to-expect-during-an-nrc-inspection) — Audits cluster, Priority 30
+
+## Phase 1 task status update
+* 1.8 Mobile layout and CTA visibility — ✅ Done
+
+## Phase 4 task status update
+* 4.2 About page — ✅ Done (internal links added, CTA section added)
+
+## Immediate next actions
+* i. Monthly analytics review (first review due 2026-07-18)
+* ii. Update content-plan/content-calendar.md — add Priorities 26-30 and mark Published
+* iii. Add internal links on new AEO pages (26-30) to related service pages as needed
+* iv. Define Priorities 31+ based on remaining content gaps and search demand
