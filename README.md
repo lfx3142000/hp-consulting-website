@@ -76,3 +76,51 @@ Do not build these until traffic and request data justify them:
 ## Preferred form confirmation language
 
 > Thank you. Your submission has been received. We review submissions to understand current radiation safety needs and may follow up if the project appears to be a good fit. Submitting this form does not create a consulting relationship, emergency response obligation, or guarantee of service.
+
+
+---
+
+## Current site status — last updated 2026-06-21
+
+### Live site
+https://advantagehealthphysics.wordpress.com
+
+### Published page inventory
+
+**Core pages (8)**
+- Home (/)
+- About (/about/)
+- Services (/services/)
+- Contact (/contact/)
+- Request a Quote (/request-a-quote/)
+- Submit a Radiation Safety Question (/submit-a-radiation-safety-question/)
+- Free Radiation Safety Templates (/free-radiation-safety-templates/)
+- Privacy Policy and Terms of Use
+
+**Service pages (6)**
+- Radioactive Material License Consulting (/radioactive-material-license-consulting/)
+- Radiation Safety Audits (/radiation-safety-audits/)
+- Radiation Safety Program Development (/radiation-safety-program-development/)
+- RSO Consulting (/rso-consulting/)
+- Radiation Safety Training (/radiation-safety-training/)
+- Radiation Surveys (/radiation-surveys/)
+
+**Free resources (2)**
+- Radiation Safety Program Audit Checklist (/radiation-safety-program-audit-checklist/)
+- RSO Inspection Readiness Checklist (/rso-inspection-readiness-checklist/)
+
+**AEO/SEO content pages (30)**
+Priorities 1–30 all published. See `content-plan/content-calendar.md` for full list with slugs, clusters, and publish dates.
+
+Total live pages: ~46
+
+### Build phase
+MVP validation phase. Core build is complete. Currently in organic traffic accumulation period.
+First analytics review scheduled: 2026-07-18.
+
+### Pending tasks
+See `TASKS.md` for full status. Key remaining items:
+- 2.9 Connect Google Sheet lead tracker to contact form
+- 3.6 Polish monthly review template
+- 3.7/3.8 Download and submission tracking setup
+- AEO content build Priorities 31+ (pending first analytics review)
