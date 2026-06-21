@@ -37,7 +37,7 @@ These tasks affect credibility and should be completed before traffic-building w
 | 1.5 | Disable comments unless intentionally moderated | ✅ Done | WordPress discussion settings |
 | 1.6 | Remove irrelevant tags that dilute topical authority | ✅ Done | WordPress post tags |
 | 1.7 | Replace response-time promises with validation-safe copy | ✅ Done | Contact/request pages |
-| 1.8 | Review mobile layout and CTA visibility | ⬜ Pending | Live site QA |
+| 1.8 | Review mobile layout and CTA visibility | ✅ Done | Live site QA — CTAs verified, mobile preview confirmed 2026-06-20 |
 | 1.9 | Check all internal links and CTA buttons | ✅ Done | Live site QA — CTAs verified, Related Resources links fixed on Audits and RSO Consulting pages |
 | 1.10 | Add privacy and disclaimer pages before collecting emails/requests | ✅ Done | WordPress pages and repo drafts |
 
@@ -78,7 +78,7 @@ The conversion path should collect request and interest signals without creating
 | # | Page | Status | Draft location |
 |---|---|---|---|
 | 4.1 | Homepage | ✅ Done | `page-drafts/home.md` |
-| 4.2 | About | 🟡 Needs Update | `page-drafts/about.md` |
+| 4.2 | About | ✅ Done | `page-drafts/about.md` — updated 2026-06-20, internal links and CTA section added |
 | 4.3 | Services | ✅ Done | `page-drafts/services.md` |
 | 4.4 | Radioactive Material License Consulting | ✅ Done | `page-drafts/radioactive-material-license-consulting.md` |
 | 4.5 | Radiation Safety Audits and Mock NRC Inspections | ✅ Done | `page-drafts/radiation-safety-audits.md` |
@@ -92,8 +92,8 @@ The conversion path should collect request and interest signals without creating
 |---|---|---|---|
 | 5.1 | Create SEO/AEO build plan | ✅ Done | `content-plan/seo-aeo-build-plan.md` |
 | 5.2 | Create internal linking map | ✅ Done | `content-plan/internal-linking-map.md` |
-| 5.3 | Create AEO page/post template | ⬜ Pending | `content-plan/aeo-page-template.md` |
-| 5.4 | Create content calendar | ⬜ Pending | `content-plan/content-calendar.md` |
+| 5.3 | Create AEO page/post template | ✅ Done | `content-plan/aeo-page-template.md` — created 2026-06-18 |
+| 5.4 | Create content calendar | ✅ Done | `content-plan/content-calendar.md` — created 2026-06-18, updated through Priority 30 (2026-06-20) |
 | 5.5 | Add FAQ sections to top service pages | ✅ Done | WordPress pages/page drafts |
 
 # Phase 7 — Free resources and lead magnets
