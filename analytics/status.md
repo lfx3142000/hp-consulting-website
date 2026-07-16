@@ -71,23 +71,25 @@ Based on first analytics data, the strategy shifts from building new pages to im
 ### Phase 5 tasks
 
 #### 5A. Title and snippet optimization (immediate)
-- [ ] Revise page title and H1 for RAM License Consulting page to include the phrase "radioactive material license" or "RAM license" explicitly.
-- [ ] Revise page title and H1 for the Radiation Safety Audits / Inspections page to include "NRC inspection" or "inspection report" explicitly.
-- [ ] Rewrite meta descriptions for both pages to be answer-style and action-oriented (target: improve CTR from 0%).
+- [x] Revise page title and H1 for RAM License Consulting page to include the phrase "radioactive material license" or "RAM license" explicitly. **Done July 15, 2026.**
+- [x] Revise page title and H1 for the Radiation Safety Audits / Inspections page to include "NRC inspection" or "inspection report" explicitly. **Done July 15, 2026.**
+- [x] Rewrite meta descriptions (excerpts) for both pages to be answer-style and action-oriented. **Done July 15, 2026.**
 - [ ] Confirm these pages are submitted/indexed in Google Search Console.
 
 #### 5B. AEO answer block improvements (immediate)
-- [ ] Add a direct "## What to expect" or "## Direct answer" block at the top of the NRC inspection page, answering the query in 2-3 sentences before any other content.
-- [ ] Add a similar direct answer block to the RAM license consulting page answering "What is a radioactive material license and who needs one?"
-- [ ] Add a 4-6 item FAQ section to each of these two pages using question phrasing that matches observed queries.
+- [x] Add a direct answer block at the top of the NRC inspection page, answering the query in 2-3 sentences before any other content. **Done July 15, 2026.**
+- [x] Add a similar direct answer block to the RAM license consulting page answering "What is a radioactive material license and who needs one?" **Done July 15, 2026.**
+- [x] Add a 4-6 item FAQ section to each of these two pages using question phrasing that matches observed queries. **Done July 15, 2026.**
+- [x] Add direct answer block and FAQ section to RSO Consulting page. **Done July 15, 2026.**
 
 #### 5C. CTA placement (immediate)
-- [ ] Move the primary CTA (inquiry form link or checklist download) above the fold on both the RAM license and inspection pages.
-- [ ] Verify CTA links are functional and not broken.
+- [x] Move the primary CTA (inquiry form link or checklist download) above the fold on RAM license and inspection pages. **Done July 15, 2026 — CTAs added immediately after direct answer blocks.**
+- [x] Verify CTA links are functional and not broken. **Done July 15, 2026.**
 
 #### 5D. Internal linking pass (this week)
-- [ ] Add at least 2 internal links from the most-viewed post (NRC inspection expectations) to the Radiation Safety Audits service page and the RAM License Consulting page.
-- [ ] Add at least 1 link from the RAM license page to the RSO Consulting page.
+- [x] Add at least 2 internal links from the inspection page to the Radiation Safety Audits service page and the RAM License Consulting page. **Done July 15, 2026 — links added in Related Resources sections.**
+- [x] Add at least 1 link from the RAM license page to the RSO Consulting page. **Done July 15, 2026.**
+- [x] Add internal links from RSO Consulting page to RAM License and Radiation Safety Audits pages. **Done July 15, 2026.**
 
 #### 5E. Content gating rule — active until first clicks are recorded
 - Do not publish additional regulatory AEO pages until RAM licensing or inspection pages earn at least 3 organic clicks.
@@ -100,16 +102,13 @@ Based on first analytics data, the strategy shifts from building new pages to im
 - [ ] Review mobile layout on RAM license, inspection, and RSO pages for CTA button visibility.
 
 ## Next Steps (priority order)
-1. Complete Phase 5A: Revise titles, H1s, and meta descriptions for RAM license and inspection pages.
-2. Complete Phase 5B: Add direct answer blocks and FAQs to both pages.
-3. Complete Phase 5C: Move CTAs above the fold.
-4. Complete Phase 5D: Internal linking pass.
-5. Complete Phase 5F: Set up Bing Webmaster Tools.
-6. Complete Phase 5G: Mobile CTA QA.
-7. After first clicks recorded: publish RSO Inspection Readiness Checklist as freebie.
-8. After 3+ clicks and 1 conversion signal: expand with next content wave (FAQ hub pages for RAM licensing cluster).
+1. **Complete Phase 5F**: Set up Bing Webmaster Tools and submit sitemap.
+2. **Complete Phase 5G**: Mobile CTA QA on RAM license, inspection, and RSO pages.
+3. **GSC indexing check**: Confirm updated pages are re-crawled and indexed in Search Console.
+4. After first clicks recorded: publish RSO Inspection Readiness Checklist as freebie (already published — confirm link from RSO page works).
+5. After 3+ clicks and 1 conversion signal: expand with next content wave (FAQ hub pages for RAM licensing cluster).
 
 ## Analytics review schedule
 - Next formal review: July 18, 2026 (first scheduled review date).
-- After July 18: fill in analytics/2026-07-review.md with GSC and Jetpack numbers.
+- After July 18: fill in analytics/2026-07-review.md with updated GSC and Jetpack numbers.
 - Monthly reviews ongoing using analytics/monthly-review-template.md.
