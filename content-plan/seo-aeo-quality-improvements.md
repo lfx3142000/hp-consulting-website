@@ -1,4 +1,52 @@
-# SEO/AEO Quality Improvements Beyond More Pages
+# SEO/AEO Quality Improvements 
+
+## Data-Driven Quality Priorities — July 2026
+
+*Updated based on first Search Console and Jetpack analytics data (July 15, 2026).*
+
+The following pages are confirmed priorities for quality improvement because they are already earning Search Console impressions but have 0 clicks. Apply all quality improvements below to these pages first, in this order, before applying them to any other pages.
+
+### Priority 1: Radiation Safety Audits / NRC Inspection page
+
+Top query match: "inspections reports" (1 impression). Also the most-viewed Jetpack page (16 views).
+
+Quality improvements to apply:
+- [ ] **Direct answer block**: Add a `## What to expect during an NRC radiation safety inspection` block within the first 200 words. 2–3 sentences maximum. This is the single most impactful AEO improvement.
+- [ ] **Title tag**: Change to include "NRC inspection report" or "NRC radiation safety inspection" as the primary phrase.
+- [ ] **Meta description**: Rewrite to start with an action phrase, e.g. "Learn what NRC inspectors typically review during a radiation safety program inspection, and how to prepare."
+- [ ] **FAQ section**: Add 4–6 questions. Suggested: What records do NRC inspectors typically request? How long does a radiation safety inspection take? What are common radiation safety inspection findings? How should an RSO prepare for an NRC inspection? What happens after an inspection finding?
+- [ ] **Source panel**: Add an NRC regulatory source panel (10 CFR Part 20, applicable state Agreement State rule).
+- [ ] **Checklist block**: Add a numbered or bulleted inspection preparation checklist that can be extracted by AI answer engines.
+- [ ] **CTA box**: Move inquiry or checklist download CTA above the fold. Add a second CTA at the bottom.
+- [ ] **Internal links**: Add links to RAM License Consulting page and RSO Consulting page.
+
+### Priority 2: RAM License Consulting page
+
+Top query match: "ram licenses" (1 impression). Also matches "health physics services" and "health physics consultants".
+
+Quality improvements to apply:
+- [ ] **Direct answer block**: Add a `## What is a radioactive material license?` block within the first 200 words. Answer in 2–3 sentences: what it is, who needs one, and what the regulatory basis is.
+- [ ] **Title tag**: Change to include "radioactive material license consulting" or "RAM license consultant" as the primary phrase.
+- [ ] **Meta description**: Rewrite to start with a direct answer, e.g. "Radioactive material license consulting for NRC and Agreement State applicants. Get help with applications, amendments, and inspection preparation."
+- [ ] **FAQ section**: Add 4–6 questions. Suggested: Who needs a radioactive material license? How do I apply for a RAM license in Massachusetts or New England? What does a RAM license consultant do? When do I need a license amendment? How long does a RAM license application take?
+- [ ] **Source panel**: Add NRC and relevant Agreement State regulatory source panel.
+- [ ] **Jurisdiction note**: Add a visible note that all six New England states are NRC Agreement States and licensees generally apply to the state, not NRC.
+- [ ] **CTA box**: Move inquiry CTA above the fold. Add a second at the bottom.
+- [ ] **Internal links**: Add links to Radiation Safety Audits page and RSO Consulting page.
+
+### Priority 3: RSO Consulting page
+
+Adjacent query match: "rmo agency" and "health physics consultants".
+
+Quality improvements to apply:
+- [ ] **Direct answer block**: Add a `## What does an RSO consultant do?` block within the first 200 words.
+- [ ] **FAQ section**: Add 4–6 questions. Suggested: What is a Radiation Safety Officer? Can an outside consultant serve as RSO? What qualifications does an RSO need? What does a part-time RSO service include?
+- [ ] **CTA box**: Confirm CTA is above the fold.
+- [ ] **Internal links**: Add link to RAM License Consulting and Radiation Safety Audits pages.
+
+### General quality rule (active as of July 2026)
+
+For all three priority pages above, do not publish any new sibling or cluster pages until all quality improvements above are applied. Quality of existing high-impression pages has higher ROI than publishing new thin pages at this stage.Beyond More Pages
 
 ## Purpose
 
