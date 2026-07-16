@@ -1,5 +1,61 @@
 # SEO and AEO Build Plan
 
+## Analytics-Driven Priorities — Updated July 15, 2026
+
+### What the data shows
+
+First Search Console data (June 12 – July 13, 2026): 45 impressions, 0 clicks, avg. position 21.2. No conversion events recorded. Jetpack shows 48 all-time views with a spike of 27 views on July 12, 2026. Most popular content: NRC radiation safety program inspection expectations page (16 views). Top impression-earning queries: "ram licenses", "inspections reports", "health physics services", "health physics consultants", "rmo agency".
+
+### What this means for the build plan
+
+The site is being discovered for exactly the right topics — RAM licensing and NRC inspections — but titles, snippets, and answer structure are not strong enough yet to earn clicks. The priority for July–August 2026 is **optimize existing pages first, then selectively expand**.
+
+### Immediate optimization targets (before new pages)
+
+These pages already earn impressions and must be improved before new content is published:
+
+1. **RAM License Consulting page** — matches "ram licenses" and "health physics services" queries.
+   - Revise H1 and title to include "radioactive material license" explicitly.
+   - Add a direct answer block at the top answering "What is a RAM license and who needs one?"
+   - Add 4–6 FAQs using question phrasing matching observed queries.
+   - Move CTA (inquiry form or checklist) above the fold.
+   - Status: **⚠️ Needs optimization**
+
+2. **Radiation Safety Audits / NRC Inspection page** — matches "inspections reports" query and is the top-viewed Jetpack post.
+   - Revise H1 and title to include "NRC inspection report" explicitly.
+   - Add a direct answer block at the top: 2–3 sentences answering "What to expect during an NRC radiation safety inspection."
+   - Add 4–6 FAQs using inspection-related query phrasing.
+   - Move CTA (Audit Checklist download or project inquiry) above the fold.
+   - Add 2 internal links to the RAM License Consulting page and RSO Consulting page.
+   - Status: **⚠️ Needs optimization**
+
+3. **RSO Consulting page** — matches "rmo agency" and "health physics consultants" adjacent queries.
+   - Add direct answer block and FAQ section.
+   - Confirm internal link from inspection page.
+   - Status: **⚠️ Needs optimization**
+
+### Content gating rule (active as of July 15, 2026)
+
+Do not publish new regulatory AEO pages until the RAM license or inspection page earns at least 3 organic clicks in Search Console.
+
+Exception: The **RSO Inspection Readiness Checklist** freebie may be published now because it directly supports conversion on the existing inspection and RSO pages.
+
+### AEO formatting requirement for all existing high-impression pages
+
+Every page in the "Immediate optimization targets" list above must be updated to include:
+- A `## Direct answer` block within the first 200 words.
+- Question-phrased H2/H3 subheadings that match the style of observed queries.
+- A visible checklist or step-by-step summary block that can be extracted by AI answer engines.
+- One clearly labeled CTA box before the fold and one at the bottom.
+
+### Next content expansion trigger
+
+Expand into the next cluster only when:
+- At least 3 organic clicks on RAM license or inspection pages, OR
+- At least 1 recorded conversion event (inquiry, download, or question submission).
+
+First expansion priority when triggered: FAQ hub page for RAM licensing cluster (combining NRC vs. Agreement State, license amendment, and inspection records questions).
+
 ## Objective
 
 Use the Advantage Health Physics website to test organic search demand. The site should attract people searching for health physics, radiation safety, RSO support, radioactive material licensing, audits, training, surveys, shielding, instrumentation, and compliance topics.
