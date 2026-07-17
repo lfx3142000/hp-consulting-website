@@ -109,5 +109,25 @@ Based on first analytics data, the strategy shifts from building new pages to im
 
 ## Analytics review schedule
 - Next formal review: July 18, 2026 (first scheduled review date).
+
+- ## NRC Rulemaking Content Initiative — Phase 6 Prep
+
+### Status: In Progress — July 17, 2026
+
+Researched upcoming NRC proposed rulemakings and created 6 page drafts in /page-drafts:
+
+1. **nrc-alara-removal-radiation-protection-framework-2026.md** — NRC-2025-1140 (ALARA removal from 10 CFR Part 20)
+2. **nrc-byproduct-materials-modernization-standard-general-licenses-2026.md** — NRC-2022-0039 (SGL modernization, Part 31)
+3. **nrc-reducing-barriers-medical-use-licensing-2026.md** — NRC-2025-1237 (Part 35 medical use licensing barriers)
+4. **nrc-microsources-part32-modernization-2026.md** — NRC-2022-0082 (Part 32 microsource distribution controls)
+5. **nrc-well-logging-part39-modernization-2026.md** — NRC-2021-0057 (Part 39 well logging modernization)
+6. **nrc-dfa-dose-limit-threshold-changes-2026.md** — NRC-2025-1140 (DPW/DFA dose limit changes, 10 CFR 20.1208)
+
+### Next Steps (NRC Content)
+- Publish drafts as WordPress pages/posts
+- Add internal links from existing NRC service pages (RAM license, NRC inspection, RSO consulting)
+- Monitor public comment deadlines for each docket
+- Track Agreement State adoption timelines
+- Build NRC Rulemaking Tracker page as index/hub for all active rulemakings
 - After July 18: fill in analytics/2026-07-review.md with updated GSC and Jetpack numbers.
 - Monthly reviews ongoing using analytics/monthly-review-template.md.
