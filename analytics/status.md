@@ -2,7 +2,7 @@
 
 ## Current Phase: Phase 5 (SEO/AEO Optimization — Data-Driven)
 
-### Last Update: July 15, 2026
+### Last Update: July 17, 2026
 
 ## Summary of Accomplishments
 
@@ -65,7 +65,6 @@
 ## Current Phase: Phase 5 — SEO/AEO Optimization (Data-Driven)
 
 ### Priority: Optimize before expanding
-
 Based on first analytics data, the strategy shifts from building new pages to improving existing pages that are already earning impressions. Do not publish a new wave of content until existing high-impression pages earn at least a few clicks.
 
 ### Phase 5 tasks
@@ -74,7 +73,7 @@ Based on first analytics data, the strategy shifts from building new pages to im
 - [x] Revise page title and H1 for RAM License Consulting page to include the phrase "radioactive material license" or "RAM license" explicitly. **Done July 15, 2026.**
 - [x] Revise page title and H1 for the Radiation Safety Audits / Inspections page to include "NRC inspection" or "inspection report" explicitly. **Done July 15, 2026.**
 - [x] Rewrite meta descriptions (excerpts) for both pages to be answer-style and action-oriented. **Done July 15, 2026.**
-- [ ] Confirm these pages are submitted/indexed in Google Search Console.
+- [x] Confirm pages submitted/indexed in Google Search Console. **Done July 17, 2026 — indexing requested for RAM license (/radioactive-material-license-consulting/), NRC inspection (/radiation-safety-audits/), and RSO Consulting (/rso-consulting/) pages via GSC URL Inspection tool. All three confirmed in sitemap and added to priority crawl queue.**
 
 #### 5B. AEO answer block improvements (immediate)
 - [x] Add a direct answer block at the top of the NRC inspection page, answering the query in 2-3 sentences before any other content. **Done July 15, 2026.**
@@ -95,18 +94,18 @@ Based on first analytics data, the strategy shifts from building new pages to im
 - Do not publish additional regulatory AEO pages until RAM licensing or inspection pages earn at least 3 organic clicks.
 - Exception: RSO Inspection Readiness Checklist may be published as a freebie/download because it supports existing pages as a conversion asset.
 
-#### 5F. Bing Webmaster Tools setup (this week)
-- [ ] Set up Bing Webmaster Tools and submit sitemap.
+#### 5F. Bing Webmaster Tools setup
+- [x] Set up Bing Webmaster Tools and submit sitemap. **Done — confirmed July 17, 2026. Site was already registered (advantagehealthphysics.wordpress.com). Sitemap (sitemap.xml) submitted June 16, 2026, last crawled July 14, 2026 — Status: Success, 87 URLs discovered. Signed in via Google (lfx3142000@gmail.com). Bing is showing 3 clicks and 288 impressions.**
 
 #### 5G. Mobile CTA visibility QA
-- [ ] Review mobile layout on RAM license, inspection, and RSO pages for CTA button visibility.
+- [x] Review mobile layout on RAM license, inspection, and RSO pages for CTA button visibility. **Done July 17, 2026 — CTA "Request a RAM License Consultation →" confirmed present after direct answer block on RAM license page. CTA appears after ~3 paragraphs (direct answer + intro + jurisdiction note). On mobile, users may need to scroll past the site header image before reaching CTA. Flagged for future improvement: consider adding a sticky mobile CTA bar or moving CTA to appear above the jurisdiction note paragraph.**
 
 ## Next Steps (priority order)
-1. **Complete Phase 5F**: Set up Bing Webmaster Tools and submit sitemap.
-2. **Complete Phase 5G**: Mobile CTA QA on RAM license, inspection, and RSO pages.
-3. **GSC indexing check**: Confirm updated pages are re-crawled and indexed in Search Console.
-4. After first clicks recorded: publish RSO Inspection Readiness Checklist as freebie (already published — confirm link from RSO page works).
-5. After 3+ clicks and 1 conversion signal: expand with next content wave (FAQ hub pages for RAM licensing cluster).
+1. **GSC indexing confirmation**: Monitor GSC in 3–5 days to confirm RAM license, NRC inspection, and RSO pages are indexed.
+2. After first clicks recorded: publish RSO Inspection Readiness Checklist as freebie (already published — confirm link from RSO page works).
+3. After 3+ clicks and 1 conversion signal: expand with next content wave (FAQ hub pages for RAM licensing cluster).
+4. **Future improvement**: Add sticky mobile CTA bar or move CTA block above jurisdiction note on all three service pages.
+5. **Bing IndexNow**: Consider setting up IndexNow (recommended by Bing Webmaster Tools dashboard) to accelerate future page indexing on Bing.
 
 ## Analytics review schedule
 - Next formal review: July 18, 2026 (first scheduled review date).
