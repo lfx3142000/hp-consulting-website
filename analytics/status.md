@@ -2,8 +2,7 @@
 
 ## Current Phase: Phase 5 (SEO/AEO Optimization — Data-Driven)
 
-### Last Update: July 20, 2026
-
+### Last Update: July 21, 2026
 ## Summary of Accomplishments
 
 ### Phase 1: Immediate live-site cleanup
@@ -177,3 +176,35 @@ Researched upcoming NRC proposed rulemakings and created 6 page drafts in /page-
 4. Build NRC Rulemaking Tracker hub page linking to all 6 articles.
 5. Check Google Search Console for indexing of new pages in 5–7 days.
 6. Next formal analytics review: July 27, 2026.
+
+
+---
+
+## Actions Taken July 21, 2026
+
+### Bing URL Inspection — All 6 NRC Rulemaking Pages Submitted
+- ✅ Submitted all 6 NRC rulemaking page URLs to Bing URL Inspection for indexing:
+  1. nrc-alara-removal-radiation-protection-framework-2026 (Discovered but not crawled → Indexing requested)
+  2. nrc-byproduct-materials-modernization-standard-general-licenses-2026 (Discovered but not crawled → Indexing requested)
+  3. nrc-dfa-dose-limit-threshold-changes-2026 (Discovered but not crawled → Indexing requested)
+  4. nrc-microsources-part32-modernization-2026 (Not discovered → Indexing requested)
+  5. nrc-reducing-barriers-medical-use-licensing-part35-2026 (Discovered but not crawled → Indexing requested)
+  6. nrc-well-logging-part39-modernization-2026 (Not discovered → Indexing requested, previously submitted July 20)
+
+### NRC Rulemaking Tracker Hub Page Published
+- ✅ Published new hub page: "NRC Rulemaking Tracker: 2026 Radiation Safety Regulatory Updates"
+  - URL: nrc-rulemaking-tracker-2026-radiation-safety-regulatory-updates
+  - Contains links to all 6 NRC rulemaking articles
+  - Contains internal links to RAM Licensing and RSO Consulting service pages
+  - Submitted to Bing URL Inspection for indexing
+
+### Internal Linking — All 6 NRC Pages Updated
+- ✅ Added "Related Consulting Services" section to all 6 NRC rulemaking pages with:
+  - Internal link to RAM Licensing Consulting service page
+  - Internal link to RSO Consulting Services page
+  - Link back to NRC Rulemaking Tracker hub page
+
+### Next Steps (Updated July 21, 2026)
+1. Monitor Bing re-indexing of all 6 NRC pages (allow 3-5 days).
+2. Check Google Search Console for indexing of new pages in 5-7 days.
+3. Next formal analytics review: July 27, 2026.
