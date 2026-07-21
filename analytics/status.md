@@ -208,3 +208,37 @@ Researched upcoming NRC proposed rulemakings and created 6 page drafts in /page-
 1. Monitor Bing re-indexing of all 6 NRC pages (allow 3-5 days).
 2. Check Google Search Console for indexing of new pages in 5-7 days.
 3. Next formal analytics review: July 27, 2026.
+
+
+---
+
+## Actions Taken July 21, 2026 (Session 2)
+
+### IndexNow — Confirmed All 7 URLs Already Submitted
+- ✅ Verified Bing URL Submission (IndexNow) panel shows all URLs already submitted via URL Inspection:
+  - 7 total URLs listed including all 6 NRC rulemaking pages + hub page
+  - IndexNow automatically notifies Bing, Yandex, Seznam, and Naver simultaneously
+  - No additional submissions required
+
+### Sitemap Pings — Deprecated, No Action Taken
+- ❌ Google sitemap ping endpoint (google.com/ping) deprecated as of 2023 — returns 404
+- ❌ Bing sitemap ping endpoint (bing.com/ping) deprecated — returns HTTP 410 Gone
+- ✅ Modern replacement: IndexNow + Webmaster Tools sitemaps (already completed)
+
+### robots.txt Verified — All Crawlers Allowed
+- ✅ Reviewed robots.txt at advantagehealthphysics.wordpress.com/robots.txt
+- ✅ User-agent: * with only admin/backend paths disallowed
+- ✅ PerplexityBot, GPTBot, Bingbot, Googlebot all fully allowed on all public pages
+- ✅ Two sitemaps listed: sitemap.xml and news-sitemap.xml
+
+### Ahrefs & Semrush Free Tier — Requires Manual Account Setup
+- ⚠️ Ahrefs Webmaster Tools (ahrefs.com/webmaster-tools) requires account creation
+- ⚠️ Semrush (semrush.com) requires account creation
+- Action required: Create accounts manually, then verify advantagehealthphysics.wordpress.com
+- Verification method for both: HTML file upload or DNS TXT record (WordPress.com may limit HTML upload; DNS TXT preferred)
+
+### Next Steps (Updated July 21, 2026 — Session 2)
+1. **Ahrefs/Semrush**: Create free accounts and verify site for backlink + keyword tracking.
+2. **Bing re-indexing**: Monitor all 6 NRC pages (allow 3-5 days from submission).
+3. **Google Search Console**: Check for indexing of new pages in 5-7 days.
+4. **Next formal analytics review**: July 27, 2026.
