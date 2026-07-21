@@ -242,3 +242,43 @@ Researched upcoming NRC proposed rulemakings and created 6 page drafts in /page-
 2. **Bing re-indexing**: Monitor all 6 NRC pages (allow 3-5 days from submission).
 3. **Google Search Console**: Check for indexing of new pages in 5-7 days.
 4. **Next formal analytics review**: July 27, 2026.
+
+
+---
+
+### Ahrefs Account Setup — Session 3 (July 21, 2026)
+
+#### Actions Completed
+- ✅ Confirmed Ahrefs activation email and activated account (lfx3142000@gmail.com)
+- ✅ Created Ahrefs project: "Advantage Health Physics" for advantagehealthphysics.wordpress.com
+- ✅ Project scope: http + https, Subdomains, all pages
+- ✅ Site Audit scheduled: Weekly, Mondays 10:00–10:59 PM Eastern
+- ⚠️ Project status: FROZEN — ownership verification required to activate
+
+#### Verification Status
+- Google Search Console OAuth: Cannot be completed via automation (GIS popup flow requires popup window; browser automation navigates main tab to gsi/transform endpoint)
+- HTML tag method: WordPress.com free plan does not support custom `<head>` meta tags for Ahrefs verification
+- Supported verification services on WordPress.com: Google, Bing, Pinterest, Yandex, Facebook only
+
+#### Verification Token (Save for Manual Use)
+- Meta tag: `<meta name="ahrefs-site-verification" content="311489f690a48b745cb479b11b6860a48c3c7436e88deba671c3563a12d0bd87">`
+
+#### Manual Step Required
+To activate the Ahrefs project:
+1. Go to app.ahrefs.com → Projects → Advantage Health Physics → Verify ownership
+2. Click "Link Google Account" — this opens a popup that must be completed in a regular browser
+3. Authorize Ahrefs to access Search Console data for lfx3142000@gmail.com
+4. Once GSC is linked and site verified in GSC, Ahrefs will auto-verify
+
+#### Available Without Verification
+- Site Explorer (backlink profile, organic keywords, competitor analysis)
+- Keywords Explorer (keyword research)
+- Content Explorer
+- Rank Tracker (position tracking — may need verification)
+
+### Next Steps (Updated July 21, 2026 — Session 3)
+1. **Manual Ahrefs verification**: Complete GSC OAuth in a regular browser session
+2. **Semrush account**: Create free account at semrush.com, verify site
+3. **Bing re-indexing**: Monitor all 6 NRC pages (allow 3-5 days from submission)
+4. **Google Search Console**: Check for indexing of new pages in 5-7 days
+5. **Next formal analytics review**: July 28, 2026
