@@ -2,7 +2,7 @@
 
 ## Current Phase: Phase 5 (SEO/AEO Optimization — Data-Driven)
 
-### Last Update: July 17, 2026
+### Last Update: July 20, 2026
 
 ## Summary of Accomplishments
 
@@ -131,3 +131,49 @@ Researched upcoming NRC proposed rulemakings and created 6 page drafts in /page-
 - Build NRC Rulemaking Tracker page as index/hub for all active rulemakings
 - After July 18: fill in analytics/2026-07-review.md with updated GSC and Jetpack numbers.
 - Monthly reviews ongoing using analytics/monthly-review-template.md.
+
+
+---
+
+## July 20, 2026 — Analytics Review
+
+### Bing Webmaster Tools (3-Month Window)
+- **Total Clicks:** 4 (+1 from July 17)
+- **Total Impressions:** 312 (+24 from July 17)
+- **Avg. CTR:** 1.28%
+- **AI Citations (Copilot):** 65 (3-month total; spike July 12–14)
+
+### Top Keywords by Impressions (Bing)
+| Keyword | Impressions | Avg. Position | Clicks |
+|---|---|---|---|
+| nrc inspection procedures | 29 | 4.55 | 0 |
+| nrc agreement states | 28 | 7.82 | 0 |
+| what is examined when reviewing radioactive inventory | 6 | 9.67 | 0 |
+| nrc inspection | 3 | 4.00 | 0 |
+| yearly radiation safety review checklist | 2 | 3.50 | 0 |
+| how often radiation protection survey on medical equipment | 2 | 3.00 | 0 |
+
+### Actions Taken July 20, 2026
+- ✅ Updated NRC Inspection page H1 and intro paragraph for "nrc inspection procedures" keyword (pos 4.55, 29 impressions)
+- ✅ Submitted updated NRC Inspection page URL to Bing for re-indexing via URL Inspection tool ("Indexing requested" confirmed)
+- ✅ Published all 6 NRC rulemaking draft pages as live WordPress pages:
+  1. NRC ALARA Removal (nrc-alara-removal-radiation-protection-framework-2026)
+  2. NRC Byproduct Materials Modernization (nrc-byproduct-materials-modernization-standard-general-licenses-2026)
+  3. NRC DFA Dose Limit Changes (nrc-dfa-dose-limit-threshold-changes-2026)
+  4. NRC Part 32 Microsources (nrc-microsources-part32-modernization-2026)
+  5. NRC Part 35 Medical Use Barriers (nrc-reducing-barriers-medical-use-licensing-part35-2026)
+  6. NRC Part 39 Well Logging (nrc-well-logging-part39-modernization-2026)
+
+### Status of Decision Gates
+- **Bing 3-click threshold:** ✅ MET (4 clicks). FAQ hub content wave unlocked.
+- **Google 3-click threshold:** ❌ Not yet met (0 clicks as of July 13).
+- **Organic impressions target (100+):** ✅ MET on Bing (312). ❌ Not yet on Google (45).
+- **Conversion events (3+):** ❌ Not yet met.
+
+### Next Steps
+1. Add internal links from NRC rulemaking pages to RAM Licensing and RSO Consulting service pages.
+2. Monitor Bing re-indexing of updated NRC Inspection page (allow 3–5 days).
+3. Submit all 6 new page URLs to Bing URL Inspection for indexing.
+4. Build NRC Rulemaking Tracker hub page linking to all 6 articles.
+5. Check Google Search Console for indexing of new pages in 5–7 days.
+6. Next formal analytics review: July 27, 2026.
