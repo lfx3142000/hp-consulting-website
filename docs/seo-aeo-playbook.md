@@ -1,6 +1,6 @@
 # SEO & AEO Playbook
 
-**Version:** 2.0 | **Last Updated:** July 2026
+**Version:** 3.0 | **Last Updated:** July 31, 2026
 **Reference Site:** Advantage Health Physics (advantagehealthphysics.wordpress.com)
 **Repository:** lfx3142000/hp-consulting-website
 
@@ -17,6 +17,8 @@
 7. [Phase 5 - Regulatory Content Strategy (NRC Focus)](#phase-5--regulatory-content-strategy-nrc-focus)
 8. [GitHub Actions Storage Management](#github-actions-storage-management)
 9. [Monthly Maintenance Checklist](#monthly-maintenance-checklist)
+10. 10. [Phase 6 - Link Building & Off-Page Authority](#phase-6---link-building--off-page-authority)
+11. [SEO/AEO Status Log](#seoaeo-status-log)
 
 ---
 
@@ -328,3 +330,97 @@ Added `retention-days: 1` to all `actions/upload-artifact` steps in non-critical
 
 *Maintained by: lfx3142000 | Advantage Health Physics Consulting*
 *NRC Rulemaking Reference: https://www.nrc.gov/about-nrc/regulatory/rulemaking/regs-being-developed.html*
+
+
+---
+
+## Phase 6 - Link Building & Off-Page Authority
+
+**Last Updated:** July 31, 2026  
+**Status:** Active — 0 referring domains as of July 2026
+
+### Why Backlinks Matter
+Backlinks are the primary signal Google uses to determine domain authority. Without external links, non-branded keywords will not rank regardless of content quality. Building backlinks is the #1 priority after content foundation is established.
+
+### Backlink Opportunity Register
+
+The following opportunities were researched and documented July 29, 2026:
+
+#### Tier 1 — Highest Priority
+
+| Opportunity | URL | Cost | DR | Status | Action |
+|---|---|---|---|---|---|
+| HPS Affiliate Member Listing | hps.org/aboutthesociety/affiliates/ | $375/yr | ~60+ | Not started | Email HPS@HPS.org to apply |
+| HPS Links Page Submission | hps.org/links/ | Free | ~60+ | Not started | Email HPS@HPS.org to request listing |
+| MA DPH Consultant Directory | mass.gov radiation control | Free | .gov | Not started | Requires MA registration number 65-XXXX |
+
+#### Tier 2 — Strong ROI
+
+| Opportunity | URL | Cost | DR | Status | Action |
+|---|---|---|---|---|---|
+| HPS New England Chapter Affiliate | hps1.org (chapter locator) | ~$300-500/yr | Medium | Not started | Contact regional chapter |
+| IIT LibGuide Health Physics | guides.library.iit.edu/healthphysics | Free | .edu | Not started | Email librarian to suggest resource link |
+| Oregon State University HP Guide | guides.library.oregonstate.edu/radiationhealthphysics | Free | .edu | Not started | Email librarian with NRC rulemaking post |
+| MCW Radiation Safety Resources | mcw.edu/departments/radiation-safety/resources | Free | .edu | Not started | Email RSO to suggest NRC rule post |
+| Qwoted Expert Profile | qwoted.com | Free | Varies | Not started | Create profile, set NRC/radiation alerts |
+| Source of Sources | sourceofsources.com | Free | Varies | Not started | Sign up for daily journalist query emails |
+
+#### Tier 3 — Ongoing / Long-term
+
+| Opportunity | Cost | Notes |
+|---|---|---|
+| LinkedIn Articles (link back to site) | Free | Publish condensed versions of NRC posts |
+| Regulations.gov public comment (NRC-2025-1140) | Free | Include site URL — due Aug 31, 2026 |
+| Guest post on radiationsafetyconsultants.com | Free | Contact for co-authored NRC rulemaking piece |
+| University RSO email outreach (Emory, Drexel, UAB) | Free | Reference NRC posts as student/RSO resources |
+
+### Backlink Progress Tracker
+
+| Date | Referring Domain | DR | Link URL | Type | Notes |
+|---|---|---|---|---|---|
+| — | None yet | — | — | — | Baseline: 0 referring domains |
+
+### Backlink Building Rules
+- **Never** purchase backlinks or use link exchange networks
+- **Never** use private blog networks (PBNs) or automated link schemes
+- All links must come from topically relevant, legitimate sources
+- Update this tracker each time a new backlink is confirmed in Ahrefs
+
+---
+
+## SEO/AEO Status Log
+
+### July 31, 2026 — Snapshot
+
+**Traffic (Jetpack Stats, Jul 21–27)**
+- Views: 11 | Visitors: 9 | Organic search referrals: 4
+- Top post: "NRC Proposes Removing ALARA From Radiation Protection Rules" — 3 views
+
+**Keyword Rankings (Semrush, Jul 24)**
+- Visibility: 3.43% (↓6.57% vs prior period — branded keyword slipped pos 1→2)
+- Ranked keywords: 1 (branded only)
+- Tracked keywords: 10/10 (free plan limit)
+- Primary competitor on tracked keywords: nrc.gov (18.38% visibility share)
+
+**Domain Authority (Ahrefs, Jul 2026)**
+- Domain Rating: 95 (wordpress.com root — not site-specific)
+- Referring domains to subdomain: 0
+- Organic traffic: 0 (Ahrefs index)
+
+**Content Published**
+- Total posts: 29 published, 5 drafts (as of Jul 29, 2026)
+- NRC rulemaking cluster: 7 posts covering Parts 20, 35, 61, ALARA removal, graded approach comparison, DOE/EO context, public comment guide
+- Evergreen cluster: RSO role, inspection prep, dose limits, ALARA principles, radiation surveys
+
+**AEO Status**
+- Structured data: Not yet implemented (blocked on WordPress.com Free plan)
+- E-E-A-T: Author credentials not yet displayed on-page
+- AI citation readiness: Not yet established — site too new, 0 backlinks
+- Featured snippet opportunities: NRC comparison table post (ALARA vs. Graded Approach) is best candidate
+
+**Top Priorities as of July 31, 2026**
+1. Build first backlinks (HPS Affiliate listing — highest value single action)
+2. Add author bio with CHP/ABHP credentials to all posts
+3. Submit public comment on NRC-2025-1140 before Aug 31, 2026 (include site URL)
+4. Upgrade Semrush to track more NRC-specific keywords
+5. Create downloadable RSO compliance checklist as linkable asset
