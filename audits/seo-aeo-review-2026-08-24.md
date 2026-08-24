@@ -41,6 +41,13 @@ Use:
 Primary source: https://www.nrc.gov/agreement-states
 Connecticut became an Agreement State September 30, 2025: https://www.nrc.gov/agreement-states/connecticut
 
+### 4. New England consulting page contains the same jurisdiction error
+Live page: `/radiation-safety-consulting-new-england/`
+
+The page currently describes Massachusetts as an Agreement State while calling Connecticut, Rhode Island, New Hampshire, Vermont, and Maine NRC-regulated states. That is outdated and materially misleading for licensing intent.
+
+Action: replace the jurisdiction paragraph with the same six-state Agreement State language above, then verify each state-specific page.
+
 ## P1 — live-site validation/CTA QA
 
 ### Homepage
@@ -49,15 +56,20 @@ The public homepage still displays **Schedule a Free Consultation** near the her
 Action: change the hero CTA to **Submit a Project Inquiry** or **Request a Quote**.
 
 ### Contact page
-The live Contact page still says:
-- free initial consultation;
-- response within one business day;
-- Quick response / one-business-day response.
+A fresh public crawl now shows the Contact page largely corrected: it uses project-inquiry language, says submissions do not guarantee service, and says a response is not guaranteed. Retain this version. An older cached copy still contains the free-consultation / one-business-day language, so verify the live page manually in WordPress and clear any stale cache if needed.
 
-Action: replace with validation-safe language, e.g.:
-> Submit an inquiry describing your facility, license type, and radiation safety need. We review submissions for scope and fit and may follow up if the project appears to be a good match.
+### Services pages
+Two overlapping live service pages are publicly discoverable:
+- `/services/`
+- `/services-2/`
 
-Do not promise a response time or consultation.
+Both target broad radiation-safety consulting intent, and both still contain free-consultation language. This is a likely duplication/cannibalization issue.
+
+Action:
+- choose one canonical Services page;
+- redirect or noindex/consolidate the duplicate if WordPress permits;
+- update internal navigation to the canonical page only;
+- replace free-consultation wording with project-inquiry or quote-request language.
 
 ### RSO consulting page
 The current public page is substantially better aligned with MVP language than earlier versions: it now uses project-inquiry wording and explicitly says an inquiry does not guarantee service. Retain that pattern on other service pages.
@@ -74,14 +86,18 @@ Authenticated Google Search Console, Bing Webmaster Tools, and WordPress/Jetpack
 
 Public search confirms that the site and recent NRC/ALARA posts are discoverable, but this is not a substitute for authenticated indexing/performance data.
 
-## Content/cannibalization observation
-The site currently has multiple July 2026 pages focused on the same NRC ALARA / graded-approach rulemaking. After factual remediation, review these pages as a cluster and decide whether to consolidate, canonicalize, or differentiate intent. Prefer one authoritative current-rulemaking page plus distinct supporting pages rather than several near-duplicate news explainers.
+## Content/cannibalization observations
+1. The site currently has multiple July 2026 pages focused on the same NRC ALARA / graded-approach rulemaking. After factual remediation, review these pages as a cluster and decide whether to consolidate, canonicalize, or differentiate intent. Prefer one authoritative current-rulemaking page plus distinct supporting pages rather than several near-duplicate news explainers.
+2. `/services/` and `/services-2/` overlap strongly and should be consolidated around one canonical commercial-intent page.
+3. Continue reviewing `/radiation-license-consultant/` versus `/radioactive-material-license-consulting/` for similar overlap.
 
 ## Next actions
 1. Correct/reframe the DOE/ALARA article before the August 31, 2026 NRC comment deadline.
 2. Correct package receipt monitoring/notification language.
 3. Correct the RSO Qualifications Agreement State sentence.
-4. Remove remaining consultation/response-time promises on Home and Contact.
-5. Review ALARA rulemaking posts for cannibalization and internal-link them deliberately.
-6. Obtain authenticated Search Console/Jetpack/Bing data for the next priority decision.
-7. Only after P0/P1 are cleared, select Priority 31; provisional topic remains sealed-source leak-test requirements and records.
+4. Correct the New England consulting page's Agreement State paragraph.
+5. Replace the homepage consultation CTA.
+6. Consolidate `/services/` and `/services-2/` and remove consultation language.
+7. Review ALARA rulemaking posts for cannibalization and internal-link them deliberately.
+8. Obtain authenticated Search Console/Jetpack/Bing data for the next priority decision.
+9. Only after P0/P1 are cleared, select Priority 31; provisional topic remains sealed-source leak-test requirements and records.
