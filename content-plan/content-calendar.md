@@ -60,7 +60,7 @@ Ordered by regulatory specificity, search intent clarity, and service alignment.
 | Priority | Title | Slug | Cluster | Status | Target date | Published |
 |---|---|---|---|---|---|---|
 | 1 | NRC vs. Agreement State: Which agency issues your radioactive material license in New England? | /nrc-vs-agreement-state-new-england | Licensing | ✅ Published | 2026-07 | 2026-06-18 |
-| 2 | Connecticut radioactive material license: NRC Agreement State transition guide | /connecticut-radioactive-material-license | Licensing | ✅ Published | 2026-07 | 2026-06-19 |
+| 2 | Connecticut radioactive material license: Agreement State transition guide | /connecticut-radioactive-material-license | Licensing | ✅ Published | 2026-07 | 2026-06-19 |
 | 3 | Massachusetts radioactive material license checklist | /massachusetts-radioactive-material-license-checklist | Licensing | ✅ Published | 2026-07 | 2026-06-18 |
 | 4 | Radioactive material license amendment: when and how to file | /radioactive-material-license-amendment-when-and-how-to-file | Licensing | ✅ Published | 2026-07 | 2026-06-18 |
 | 5 | New England radioactive material reciprocity checklist | /radioactive-material-license-reciprocity-in-new-england | Licensing | ✅ Published | 2026-07 | 2026-06-18 |
@@ -75,15 +75,15 @@ Ordered by regulatory specificity, search intent clarity, and service alignment.
 | 14 | Radiation shielding evaluation: when is one required? | /radiation-shielding-evaluation-when-is-one-required | Shielding | ✅ Published | 2026-09 | 2026-06-19 |
 | 15 | RSO responsibilities: what does a Radiation Safety Officer actually do? | /rso-responsibilities-what-does-a-radiation-safety-officer-actually-do | RSO Support | ✅ Published | 2026-09 | 2026-06-19 |
 | 16 | Rhode Island radioactive material license: who regulates RAM in Rhode Island? | /rhode-island-radioactive-material-license | Licensing | ✅ Published | 2026-09 | 2026-06-19 |
-| 17 | Maine radioactive material license: NRC regulates RAM in Maine | /maine-radioactive-material-license | Licensing | ✅ Published | 2026-09 | 2026-06-19 |
-| 18 | New Hampshire radioactive material license: NRC regulates RAM in New Hampshire | /new-hampshire-radioactive-material-license | Licensing | ✅ Published | 2026-09 | 2026-06-19 |
-| 19 | Vermont radioactive material license: NRC regulates RAM in Vermont | /vermont-radioactive-material-license | Licensing | ✅ Published | 2026-09 | 2026-06-19 |
+| 17 | Maine radioactive material license: Agreement State requirements | /maine-radioactive-material-license | Licensing | ✅ Published | 2026-09 | 2026-06-19 |
+| 18 | New Hampshire radioactive material license: Agreement State requirements | /new-hampshire-radioactive-material-license | Licensing | ✅ Published | 2026-09 | 2026-06-19 |
+| 19 | Vermont radioactive material license: Agreement State requirements | /vermont-radioactive-material-license | Licensing | ✅ Published | 2026-09 | 2026-06-19 |
 | 20 | What is an authorized user on a radioactive material license? | /authorized-user-radioactive-material-license | Licensing | ✅ Published | 2026-09 | 2026-06-19 |
 | 21 | What is a broad scope radioactive material license? | /broad-scope-radioactive-material-license | Licensing | ✅ Published | 2026-06 | 2026-06-19 |
-| 22 | Radioactive material license termination: how to close out a license | /radioactive-material-license-termination || Licensing | ✅ Published | 2026-06 | 2026-06-19 |
-| 23 | NRC license renewal: how to renew a radioactive material license | /nrc-radioactive-material-license-renewal | L| Licensing | ✅ Published | 2026-06 | 2026-06-19 |
-| 24 | Radiation dose limits for radiation workers: 10 CFR Part 20 summary | /radiation-dose-limits-radiation-workers | Comp| Compliance | ✅ Published | 2026-06 | 2026-06-19 |
-| 25 | Radiation exposure monitoring: when is dosimetry required? | /radiation-exposure-monitoring-dosimetry-requirements | Compl| Compliance | ✅ Published | 2026-06 | 2026-06-19 |
+| 22 | Radioactive material license termination: how to close out a license | /radioactive-material-license-termination | Licensing | ✅ Published | 2026-06 | 2026-06-19 |
+| 23 | NRC license renewal: how to renew a radioactive material license | /nrc-radioactive-material-license-renewal | Licensing | ✅ Published | 2026-06 | 2026-06-19 |
+| 24 | Radiation dose limits for radiation workers: 10 CFR Part 20 summary | /radiation-dose-limits-radiation-workers | Compliance | ✅ Published | 2026-06 | 2026-06-19 |
+| 25 | Radiation exposure monitoring: when is dosimetry required? | /radiation-exposure-monitoring-dosimetry-requirements | Compliance | ✅ Published | 2026-06 | 2026-06-19 |
 | 26 | Radiation Safety Officer Qualifications: NRC and Agreement State Requirements | /radiation-safety-officer-qualifications-nrc-and-agreement-state-requirements | RSO Support | ✅ Published | 2026-06 | 2026-06-20 |
 | 27 | How to Write a Radiation Safety Program: Required Elements and Best Practices | /how-to-write-a-radiation-safety-program-required-elements-and-best-practices | Compliance | ✅ Published | 2026-06 | 2026-06-20 |
 | 28 | Radioactive Waste Disposal: Options and Requirements for NRC Licensees | /radioactive-waste-disposal-options-and-requirements-for-nrc-licensees | Compliance | ✅ Published | 2026-06 | 2026-06-20 |
@@ -96,7 +96,7 @@ Ordered by regulatory specificity, search intent clarity, and service alignment.
 | Month | Review date | Traffic notes | Conversion signals | Next priority decision |
 |---|---|---|---|---|
 | 2026-06 | First review: 2026-07-18 | Baseline — site launched March 2026 | Monitor question submissions | Build licensing cluster first |
-| 2026-07 | 2026-08-18 | — | — | — |
+| 2026-07 | 2026-08-18 | Authenticated Search Console/Jetpack/Bing metrics unavailable to automation | Not measurable from public site | Hold Priority 31; clear regulatory accuracy and live-site QA items first |
 | 2026-08 | 2026-09-18 | — | — | — |
 | 2026-09 | 2026-10-18 | — | — | — |
 
@@ -107,3 +107,4 @@ Ordered by regulatory specificity, search intent clarity, and service alignment.
 - If a cluster generates contact form submissions, prioritize more pages in that cluster
 - All new pages should be added to the Published pages table above after going live
 - Each published page should be added to the WordPress Internal Linking Map page
+- As of 2026-08-24, regulatory accuracy remediation takes precedence over Priority 31+ content creation
