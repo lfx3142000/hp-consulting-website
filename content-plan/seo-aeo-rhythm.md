@@ -1,6 +1,6 @@
 # SEO/AEO Operating Rhythm — Advantage Health Physics
 
-Last updated: 2026-08-17
+Last updated: 2026-08-31
 
 ## Purpose
 Use this file as the first source of truth for recurring SEO/AEO work. The site is a traffic- and demand-validation MVP. Prioritize organic search visibility, answer-engine usefulness, regulatory accuracy, and demand signals from inquiries, submitted questions, downloads, and email signups. Do not build operational infrastructure or make service promises before demand justifies it.
@@ -11,6 +11,7 @@ Use this file as the first source of truth for recurring SEO/AEO work. The site 
 - Verify regulatory claims against current official NRC, eCFR, DOT, DOE, and applicable Agreement State sources before publishing or refreshing regulated content.
 - For New England RAM licensing, treat all six states — CT, ME, MA, NH, RI, and VT — as Agreement States for agreement material, subject to NRC-retained jurisdiction.
 - Correct material regulatory inaccuracies before creating additional AEO pages.
+- For active rulemakings, distinguish a requested/possible deadline extension from a formally effective deadline change. Use the current NRC/Regulations.gov docket status as controlling.
 
 ## Recurring sequence
 1. Regulatory accuracy audit of high-traffic, recently published, and regulation-specific pages, including prominent recent blog posts.
@@ -20,39 +21,48 @@ Use this file as the first source of truth for recurring SEO/AEO work. The site 
 5. Execute clear repo work: draft/correct content, internal-link recommendations, calendar/task notes, and manual WordPress instructions.
 6. Record what changed and the next highest-value action.
 
-## Current priority queue — 2026-08-17
+## Current priority queue — 2026-08-31
 
-### P0 — Regulatory corrections
+### P0 — Regulatory corrections and current-rulemaking accuracy
 1. **DOE Removed ALARA in January 2026** blog post (2026-07-29)
    - Do not state that DOE removed ALARA in January 2026 unless a primary DOE rule/order showing that change can be produced.
-   - Current DOE public guidance still states that occupational doses under 10 CFR 835 are required to be ALARA and that DOE O 458.1 contains current ALARA requirements for protection of the public and environment.
-   - Preferred remediation: retitle/reframe the article around the NRC's July 2026 proposed radiation-protection rule and distinguish the NRC proposal from current DOE requirements. Add a visible correction note if the original claim was materially wrong.
-   - Official sources checked 2026-08-17: DOE Occupational Radiation Protection Program (10 CFR 835); DOE Policies, Standards, Guidance, and Statutes; NRC July 15, 2026 proposed rule / August 10 public meeting materials.
+   - Current DOE public guidance still states that occupational doses under 10 CFR 835 are required to be ALARA.
+   - Preferred remediation: retitle/reframe the article around the NRC's July 2026 proposed radiation-protection rule and distinguish the NRC proposal from current DOE requirements. Add a visible correction note.
 
-2. **Package Receipt Survey Requirements** (`/package-receipt-survey-requirements-for-radioactive-material/`)
+2. **NRC radiation-protection rulemaking deadline status**
+   - As of 2026-08-31, NRC's public comment page still lists August 31, 2026 as the deadline for Docket NRC-2025-1140.
+   - NRC's Commission Correspondence page shows an August 21, 2026 letter from Chairman Ho K. Nieh requesting a 60-day extension.
+   - Do **not** state that the deadline has been extended unless NRC/Regulations.gov formally updates the docket.
+   - Add a dated status note to the strongest NRC rulemaking article and refresh all comment-deadline language after the docket closes or changes.
+
+3. **Package Receipt Survey Requirements** (`/package-receipt-survey-requirements-for-radioactive-material/`)
    - Correct the page so 10 CFR 20.1906 monitoring triggers are described accurately.
    - Do not state that every incoming RAM package requires visual inspection + surface dose + 1-meter dose + wipe survey.
-   - Do not use the current fixed 22,000/2,200 dpm per 100 cm² notification thresholds. The rule directs licensees to the applicable limits in 10 CFR 71.87(i)/transport contamination requirements; current DOT Table 9 in 49 CFR 173.443 uses 240 dpm/cm² for beta/gamma and low-toxicity alpha emitters and 24 dpm/cm² for other alpha emitters, with the specified measurement method.
-   - State notification requirements by reference to the applicable 10 CFR 71.87(i) and 71.47 limits, including transport-specific/exclusive-use distinctions.
+   - Do not use the current fixed 22,000/2,200 dpm per 100 cm² notification thresholds as universal notification criteria.
+   - State notification requirements by reference to the applicable 10 CFR 71.87(i), 10 CFR 71.47, and transport-specific conditions.
 
-3. **RSO Qualifications** (`/radiation-safety-officer-qualifications-nrc-and-agreement-state-requirements/`)
-   - Replace the outdated sentence saying only Massachusetts and Connecticut are Agreement States in New England.
-   - Use: “All six New England states — Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont — are NRC Agreement States for agreement material. NRC retains authority over reactors, fuel-cycle facilities, federal agencies and certain other areas/materials.”
+4. **Agreement State wording**
+   - `radiation-safety-consulting-new-england`: currently describes CT, RI, NH, VT, and ME as NRC-regulated states. Correct it.
+   - `radiation-safety-officer-qualifications-nrc-and-agreement-state-requirements`: verify and correct the previously identified stale sentence.
+   - Use: “All six New England states — Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont — are NRC Agreement States for agreement material. NRC retains authority over reactors, federal agencies and certain other areas/materials.”
 
 ### P1 — Validation-MVP live-site cleanup
-4. Remove or soften service promises that conflict with MVP guardrails:
-   - Homepage: replace **Schedule a Free Consultation** with **Submit a Project Inquiry** or **Request a Quote**.
-   - Contact page: remove “We offer a free initial consultation,” “We typically respond to all inquiries within one business day,” “Quick response,” and similar guaranteed language.
-   - RSO Consulting: remove/soften immediate/priority incident-response promises and avoid implying guaranteed continuous availability before that service is operationally supported.
-   - Radiation Safety Audits: remove “Most audits are completed within two to three weeks of engagement.”
-   - Prefer inquiry-based CTA wording on Training and Surveys rather than “Schedule …” language.
+5. Remove or soften remaining service promises that conflict with MVP guardrails:
+   - Homepage header: replace **Schedule a Free Consultation** with **Submit a Project Inquiry** or **Request a Quote**.
+   - `/services/`: replace free-consultation wording.
+   - `/services-2/`: replace free-consultation wording.
+   - `/radiation-safety-consulting-new-england/`: replace “Get a Free Consultation” and similar wording.
+   - Contact page should be rechecked against the freshest live version because public crawls are inconsistent; if one-business-day/free-consultation language remains, remove it.
 
-5. Homepage licensing link is not broken: `/radiation-license-consultant/` resolves to a live licensing page. However, the site also has `/radioactive-material-license-consulting/`; decide whether both pages intentionally target distinct search intent. If not, consolidate/canonicalize to reduce topic cannibalization.
+6. Consolidate duplicate/overlapping commercial and news intent:
+   - `/services/` and `/services-2/` both target the same service-hub intent. Prefer one canonical service hub, consolidate unique content, redirect the duplicate if possible, and normalize internal links.
+   - Three July 29 NRC/ALARA posts substantially overlap. Keep one authoritative current-rulemaking page, one genuinely differentiated graded-approach comparison if useful, and correct/consolidate the DOE-history post.
 
 ### P2 — Planning hygiene
-6. Correct outdated content-calendar titles for Maine, New Hampshire, and Vermont so they no longer say NRC regulates RAM in those states.
-7. Repair malformed table cells in priorities 22–25 in `content-plan/content-calendar.md`.
-8. Reconcile Phase 2/3 task-table statuses with later completion notes in `TASKS.md` (Bing setup and lead tracker are recorded as completed later in the file).
+7. Reconcile `TASKS.md` status tables with later completion notes:
+   - Task 2.9 lead tracker is marked Pending in the table but later recorded completed.
+   - Task 3.4 Bing Webmaster Tools is marked Pending in the table but later recorded completed via Search Console import.
+8. Maintain corrected content-calendar titles and table structure; do not reintroduce obsolete NRC-regulates-ME/NH/VT wording.
 
 ### P3 — Analytics-driven growth
 9. Do not lock Priority 31+ until authenticated Search Console/Jetpack/Bing data can be reviewed. When available, prioritize:
