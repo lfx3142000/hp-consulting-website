@@ -80,3 +80,17 @@ Use this file as the first source of truth for recurring SEO/AEO work. The site 
 
 ## Manual WordPress rule
 Repository changes are not proof of WordPress publication. Each run must list exact live-site edits still needed and must not claim they are published unless verified on the public site.
+
+
+## Update — 2026-10-26 (supersedes priority ordering above where inconsistent)
+**Source:** `audits/seo-aeo-review-2026-10-26.md`. The public site still displays the major P0 inaccuracies; repository drafts are not WordPress publications.
+
+1. **P0:** Correct unsupported DOE-removed-ALARA claim and obsolete comment invitation; remove homepage promotion until corrected.
+2. **P0:** Fix reciprocity and all six-state jurisdiction claims; ready-to-paste correction: `page-drafts/radioactive-material-license-reciprocity-correction-2026-10-26.md`.
+3. **P0:** Fix 10 CFR 20.1906 package receipt triggers/notification limits; ready-to-paste correction: `page-drafts/package-receipt-survey-correction-2026-10-26.md`.
+4. **P0/P1:** Refresh NRC rulemaking status, 20.1101 and 35.24(b) citations; `/radiation-license-consultant/` incorrectly says **37** Agreement States (Connecticut became 40th in 2025).
+5. **P1:** Fix malformed licensing-page lead/placeholder worksheet, free-consultation and response/turnaround promises, `/services-2/` duplication, overlapping ALARA pages, and nonclickable Related Resources.
+6. **P1:** Repair duplicated/corrupted `content-plan/internal-linking-map.md` and outdated `/submit-a-quote-project-inquiry/` path; homepage inquiry target is `/request-a-quote/`. Confirm slugs before editing WordPress.
+7. **P2:** Obtain authenticated Search Console, Bing, Jetpack performance data. None available this run; no ranking/CTR conclusions. Hold Priority 31 until corrections are live, then choose from demand; sealed-source leak testing is provisional.
+
+**QA limit:** 11 prominent homepage links resolved; no complete site crawl. XML sitemap/robots/canonicals unverified. Confirm live edits and indexing separately.
