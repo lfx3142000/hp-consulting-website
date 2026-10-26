@@ -99,6 +99,7 @@ Ordered by regulatory specificity, search intent clarity, and service alignment.
 | 2026-07 | 2026-08-18 | Authenticated Search Console/Jetpack/Bing metrics unavailable to automation | Not measurable from public site | Hold Priority 31; clear regulatory accuracy and live-site QA items first |
 | 2026-08 | 2026-09-18 | — | — | — |
 | 2026-09 | 2026-10-18 | — | — | — |
+| 2026-10 | 2026-10-26 | Authenticated GSC/Bing/Jetpack unavailable; no metrics inferred | Unavailable | Hold Priority 31; correct DOE/ALARA, reciprocity, package receipt, and internal linking; provisional sealed-source leak-test topic only after remediation |
 
 ---
 
