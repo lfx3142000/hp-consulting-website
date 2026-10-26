@@ -1,74 +1,46 @@
 # Internal Linking Map — Advantage Health Physics
 
-This document tracks the# Internal Linking Map — Advantage Health Physics
+Updated: 2026-10-26. This is a **target map**, not a verified live-link inventory. Confirm links in the WordPress editor and on the published page.
 
-This document tracks the internal linking strategy to ensure topical authority and efficient user flow.
+## Core hubs
 
-## Core Content Hubs
-* **Resource Hub:** /radiation-safety-program-audit-checklist/
-* **Inquiry Hub:** /submit-a-quote-project-inquiry/
-* **Question Hub:** /submit-a-radiation-safety-question/
+| Hub | Current target |
+|---|---|
+| Project inquiry | /request-a-quote/ |
+| Radiation safety question | /submit-a-radiation-safety-question/ |
+| Free resources | /free-radiation-safety-resources/ |
+| License consulting | /radioactive-material-license-consulting/ |
+| Radiation safety audit checklist | /radiation-safety-program-audit-checklist/ |
+| NRC vs. Agreement State explainer | /nrc-vs-agreement-state-new-england/ |
 
-## Service Page Internal Links
-| Service Page | Primary CTA Link | Secondary Internal Link |
+## Service-page link targets
+
+| Service page | Primary inquiry CTA | Secondary link |
 |---|---|---|
-| Radiation Safety Audits | /submit-a-quote-project-inquiry/ | /radiation-safety-program-audit-checklist/ |
-| RSO Consulting | /submit-a-quote-project-inquiry/ | /radiation-safety-program-development/ |
-| RAM License Consulting | /submit-a-quote-project-inquiry/ | /radiation-surveys/ |
-| Program Development | /submit-a-quote-project-inquiry/ | /radiation-safety-program-audit-checklist/ |
-| Radiation Training | /submit-a-quote-project-inquiry/ | /submit-a-radiation-safety-question/ |
-| Radiation Surveys | /submit-a-quote-project-inquiry/ | /ram-license-consultant/ |
+| /radiation-safety-audits/ | /request-a-quote/ | /radiation-safety-program-audit-checklist/ |
+| /rso-consulting/ | /request-a-quote/ | /radiation-safety-program-development/ |
+| /radioactive-material-license-consulting/ | /request-a-quote/ | /nrc-vs-agreement-state-new-england/ |
+| /radiation-safety-program-development/ | /request-a-quote/ | /radiation-safety-program-audit-checklist/ |
+| /training/ | /request-a-quote/ | /submit-a-radiation-safety-question/ |
+| /radiation-surveys/ | /request-a-quote/ | /rso-consulting/ |
 
-## Resource Page Internal Links
-| Resource Page | CTA Link | Related Content |
-|---|---|---|
-| Audit Checklist | /submit-a-quote-project-inquiry/ | /radiation-safety-audits/ |
-| Privacy Policy | N/A | /terms-of-use-and-disclaimer/ |
-| Terms of Use | N/A | /privacy-policy/ |
+## Immediate WordPress fixes
 
-## Anchors and Keywords
-* **Audit:** mock nrc inspection, radiation safety audit, compliance review
-* **RSO:** rso services, radiation safety officer consulting
-* **License:** ram license, radioactive material license amendment
-* **Training:** radiation safety training, dot hazardous materials training
-* **Surveys:** radiation survey, area monitoring, leak testing
- internal linking strategy to ensure topical authority and efficient user flow.
+- Reciprocity page `/radioactive-material-license-reciprocity-in-new-england/`: make its “Related Resources” labels actual hyperlinks to the NRC-vs.-Agreement-State explainer, license consulting hub, and inquiry page.
+- Package receipt page `/package-receipt-survey-requirements-for-radioactive-material/`: make its “Related Resources” labels actual hyperlinks to inspection records checklist, surveys/program-development hub, and question page.
+- `/radiation-license-consultant/`: repair malformed copy and placeholder download; consider consolidation with `/radioactive-material-license-consulting/`.
+- `/services-2/`: consolidate unique content into `/services/`, then redirect duplicate if supported.
+- Validate redirects and exact slugs in WordPress; no bulk WordPress edits have been made.
 
-## Core Content Hubs
-* **Resource Hub:** /radiation-safety-program-audit-checklist/
-* **Inquiry Hub:** /submit-a-quote-project-inquiry/
-* **Question Hub:** /submit-a-radiation-safety-question/
+## Suggested anchor language
 
-## Service Page Internal LinksCreate internal linking map for Advantage Health Physics. Tracks core hubs, service page links, and keyword anchors for SEO.
-| Service Page | Primary CTA Link | Secondary Internal Link |
-|---|---|---|
-| Radiation Safety Audits | /submit-a-quote-project-inquiry/ | /radiation-safety-program-audit-checklist/ |
-| RSO Consulting | /submit-a-quote-project-inquiry/ | /radiation-safety-program-development/ |
-| RAM License Consulting | /submit-a-quote-project-inquiry/ | /radiation-surveys/ |
-| Program Development | /submit-a-quote-project-inquiry/ | /radiation-safety-program-audit-checklist/ |
-| Radiation Training | /submit-a-quote-project-inquiry/ | /submit-a-radiation-safety-question/ |
-| Radiation Surveys | /submit-a-quote-project-inquiry/ | /ram-license-consultant/ |
-
-## Resource Page Internal Links
-| Resource Page | CTA Link | Related Content |
-|---|---|---|
-| Audit Checklist | /submit-a-quote-project-inquiry/ | /radiation-safety-audits/ |
-| Privacy Policy | N/A | /terms-of-use-and-disclaimer/ |
-| Terms of Use | N/A | /privacy-policy/ |
-
-## Anchors and Keywords
-* **Audit:** mock nrc inspection, radiation safety audit, compliance review
-* **RSO:** rso services, radiation safety officer consulting
-* **License:** ram license, radioactive material license amendment
-* **Training:** radiation safety training, dot hazardous materials training
-* **Surveys:** radiation survey, area monitoring, leak testing
-
+Use descriptive, natural anchors: radioactive material license consulting; NRC vs. Agreement State licensing; package receipt surveys; radiation safety audit checklist; RSO consulting; radiation survey requirements.
 
 ---
 
 ## AEO Pages — Internal Linking Structure
 
-As of 2026-06-20, 30 AEO/SEO pages are published. Each page links back to at least one service page and includes a CTA linking to /request-a-quote/.
+As of 2026-06-20, 30 AEO/SEO pages were reported published. The links below are **targets to verify in WordPress**, not evidence that all links are clickable.
 
 ### Licensing cluster
 
