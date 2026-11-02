@@ -109,3 +109,9 @@ Ordered by regulatory specificity, search intent clarity, and service alignment.
 - All new pages should be added to the Published pages table above after going live
 - Each published page should be added to the WordPress Internal Linking Map page
 - As of 2026-08-24, regulatory accuracy remediation takes precedence over Priority 31+ content creation
+
+
+### SEO/AEO rhythm note — 2026-11-02
+- Live P0 inaccuracies remain (DOE/ALARA, New England reciprocity, package receipt). New DOE/ALARA correction draft: `page-drafts/doe-alara-correction-2026-11-02.md`; existing reciprocity/package receipt drafts dated 2026-10-26 remain manual WordPress actions.
+- No authenticated GSC/Bing/Jetpack performance metrics were accessible. Impressions, clicks, CTR, positions, indexing and conversions remain **unknown**, not zero. No demand-based topic reprioritization.
+- Hold Priority 31. Once corrections are live, use query/page data to select high-impression/low-CTR pages and positions 8–20; otherwise sealed-source leak-test requirements and records remains provisional.
