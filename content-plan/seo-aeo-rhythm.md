@@ -1,6 +1,6 @@
 # SEO/AEO Operating Rhythm — Advantage Health Physics
 
-Last updated: 2026-09-14
+Last updated: 2026-11-02
 
 ## Purpose
 Use this file as the first source of truth for recurring SEO/AEO work. The site is a traffic- and demand-validation MVP. Prioritize organic search visibility, answer-engine usefulness, regulatory accuracy, and demand signals from inquiries, submitted questions, downloads, and email signups. Do not build operational infrastructure or make service promises before demand justifies it.
@@ -94,3 +94,14 @@ Repository changes are not proof of WordPress publication. Each run must list ex
 7. **P2:** Obtain authenticated Search Console, Bing, Jetpack performance data. None available this run; no ranking/CTR conclusions. Hold Priority 31 until corrections are live, then choose from demand; sealed-source leak testing is provisional.
 
 **QA limit:** 11 prominent homepage links resolved; no complete site crawl. XML sitemap/robots/canonicals unverified. Confirm live edits and indexing separately.
+
+
+## Update — 2026-11-02
+**Audit:** `audits/seo-aeo-review-2026-11-02.md`. Live regulatory corrections remain unpublished; retain P0-before-new-content rule.
+
+1. New ready-to-publish **DOE/ALARA correction**: `page-drafts/doe-alara-correction-2026-11-02.md`. Correct headline, homepage promotion, excerpt and expired comment CTA. DOE still describes ALARA as required under 10 CFR 835; NRC July 2026 was a proposed rule.
+2. New cross-article audit: July 15 Federal Register notice heading lists Part **53** but not Part **150**; older ALARA articles list Part 150 and omit Part 53. Verify amendatory text before revising the list.
+3. Reciprocity and package receipt drafts from 2026-10-26 are still **not published**. All six New England states are Agreement States. The live package receipt article still incorrectly generalizes survey triggers.
+4. Six prominent homepage links resolved, but this is not a complete crawl. Remaining QA: consultation CTA, duplicate Services, broken licensing-page paragraph, 37-state FAQ, plain-text Related Resources, duplicate RSO FAQs, and unverified sitemap/robots/canonicals.
+5. NRC tracker blocked fresh access on November 2; recheck future rulemaking publication schedules directly before changing date-specific copy.
+6. GSC/Bing/Jetpack authenticated analytics unavailable; no metrics inferred. Keep Priority 31 on hold until P0/P1 are corrected; sealed-source leak testing remains provisional.
